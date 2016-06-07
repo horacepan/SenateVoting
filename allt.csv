@@ -1,4 +1,4 @@
-row_num, year, bill_num
+row_num,year,bill_num,topic
 0,2015,1,Finance and Financial Sector
 1,2015,2,Finance and Financial Sector
 2,2015,3,Energy
