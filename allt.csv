@@ -1,0 +1,428 @@
+row_num, year, bill_num
+0,2015,1,Finance and Financial Sector
+1,2015,2,Finance and Financial Sector
+2,2015,3,Energy
+3,2015,4,Energy
+4,2015,5,Energy
+5,2015,6,Energy
+6,2015,7,Energy
+7,2015,8,Energy
+8,2015,9,Energy
+9,2015,10,Energy
+10,2015,11,Energy
+11,2015,12,Energy
+12,2015,13,Energy
+13,2015,14,Energy
+14,2015,15,Energy
+15,2015,16,Energy
+16,2015,17,Energy
+17,2015,18,Energy
+18,2015,19,Energy
+19,2015,20,Energy
+20,2015,21,Energy
+21,2015,22,Energy
+22,2015,23,Energy
+23,2015,24,Energy
+24,2015,25,Energy
+25,2015,26,Energy
+26,2015,27,Energy
+27,2015,28,Energy
+28,2015,29,Energy
+29,2015,30,Energy
+30,2015,31,Energy
+31,2015,32,Energy
+32,2015,33,Energy
+33,2015,34,Energy
+34,2015,35,Energy
+35,2015,36,Energy
+36,2015,37,Energy
+37,2015,38,Energy
+38,2015,39,Energy
+39,2015,40,Energy
+40,2015,41,Energy
+41,2015,42,Energy
+42,2015,43,Energy
+43,2015,44,Energy
+44,2015,45,Energy
+45,2015,46,Energy
+46,2015,47,Energy
+47,2015,48,Energy
+48,2015,49,Energy
+49,2015,50,Armed Forces and National Security
+50,2015,51,Emergency Management
+51,2015,52,Emergency Management
+52,2015,53,Emergency Management
+53,2015,54,Nomination
+54,2015,55,Crime and Law Enforcement
+55,2015,56,Nomination
+56,2015,57,Emergency Management
+57,2015,58,Emergency Management
+58,2015,59,Emergency Management
+59,2015,60,Emergency Management
+60,2015,61,Emergency Management
+61,2015,62,Emergency Management
+62,2015,63,Immigration
+63,2015,64,Emergency Management
+64,2015,65,Emergency Management
+65,2015,66,Labor and Employment
+66,2015,67,Labor and Employment
+67,2015,68,Energy
+68,2015,69,Nomination
+69,2015,70,Nomination
+70,2015,71,Nomination
+71,2015,72,Crime and Law Enforcement
+72,2015,73,Crime and Law Enforcement
+73,2015,74,Crime and Law Enforcement
+74,2015,75,Crime and Law Enforcement
+75,2015,76,Crime and Law Enforcement
+76,2015,77,Nomination
+77,2015,78,Economics and Public Finance
+78,2015,79,Economics and Public Finance
+79,2015,80,Economics and Public Finance
+80,2015,81,Economics and Public Finance
+81,2015,82,Economics and Public Finance
+82,2015,83,Economics and Public Finance
+83,2015,84,Economics and Public Finance
+84,2015,85,Economics and Public Finance
+85,2015,86,Economics and Public Finance
+86,2015,87,Economics and Public Finance
+87,2015,88,Economics and Public Finance
+88,2015,89,Economics and Public Finance
+89,2015,90,Economics and Public Finance
+90,2015,91,Economics and Public Finance
+91,2015,92,Economics and Public Finance
+92,2015,93,Economics and Public Finance
+93,2015,94,Economics and Public Finance
+94,2015,95,Economics and Public Finance
+95,2015,96,Economics and Public Finance
+96,2015,97,Economics and Public Finance
+97,2015,98,Economics and Public Finance
+98,2015,99,Economics and Public Finance
+99,2015,100,Economics and Public Finance
+100,2015,101,Economics and Public Finance
+101,2015,102,Economics and Public Finance
+102,2015,103,Economics and Public Finance
+103,2015,104,Economics and Public Finance
+104,2015,105,Economics and Public Finance
+105,2015,106,Economics and Public Finance
+106,2015,107,Economics and Public Finance
+107,2015,108,Economics and Public Finance
+108,2015,109,Economics and Public Finance
+109,2015,110,Economics and Public Finance
+110,2015,111,Economics and Public Finance
+111,2015,112,Economics and Public Finance
+112,2015,113,Economics and Public Finance
+113,2015,114,Economics and Public Finance
+114,2015,115,Economics and Public Finance
+115,2015,116,Economics and Public Finance
+116,2015,117,Economics and Public Finance
+117,2015,118,Economics and Public Finance
+118,2015,119,Economics and Public Finance
+119,2015,120,Economics and Public Finance
+120,2015,121,Economics and Public Finance
+121,2015,122,Economics and Public Finance
+122,2015,123,Economics and Public Finance
+123,2015,124,Economics and Public Finance
+124,2015,125,Economics and Public Finance
+125,2015,126,Economics and Public Finance
+126,2015,127,Economics and Public Finance
+127,2015,128,Economics and Public Finance
+128,2015,129,Economics and Public Finance
+129,2015,130,Economics and Public Finance
+130,2015,131,Economics and Public Finance
+131,2015,132,Economics and Public Finance
+132,2015,133,Economics and Public Finance
+133,2015,134,Economics and Public Finance
+134,2015,135,Economics and Public Finance
+135,2015,136,Nomination
+136,2015,137,Health
+137,2015,138,Health
+138,2015,139,Health
+139,2015,140,Health
+140,2015,141,Health
+141,2015,142,Health
+142,2015,143,Health
+143,2015,144,Health
+144,2015,145,Economics and Public Finance
+145,2015,146,Economics and Public Finance
+146,2015,147,Economics and Public Finance
+147,2015,148,Economics and Public Finance
+148,2015,149,Economics and Public Finance
+149,2015,150,Economics and Public Finance
+150,2015,151,Economics and Public Finance
+151,2015,152,Economics and Public Finance
+152,2015,153,Economics and Public Finance
+153,2015,154,Nomination
+154,2015,155,Nomination
+155,2015,156,Crime and Law Enforcement
+156,2015,157,Crime and Law Enforcement
+157,2015,158,Crime and Law Enforcement
+158,2015,159,Crime and Law Enforcement
+159,2015,160,Crime and Law Enforcement
+160,2015,161,Crime and Law Enforcement
+161,2015,162,Crime and Law Enforcement
+162,2015,163,Crime and Law Enforcement
+163,2015,164,Nomination
+164,2015,165,Nomination
+165,2015,166,Nomination
+166,2015,167,International Affairs
+167,2015,168,International Affairs
+168,2015,169,Nomination
+169,2015,170,Economics and Public Finance
+170,2015,171,Economics and Public Finance
+171,2015,172,Labor and Employment
+172,2015,173,International Affairs
+173,2015,174,International Affairs
+174,2015,175,International Affairs
+175,2015,176,Economics and Public Finance
+176,2015,177,Nomination
+177,2015,178,Foreign Trade and International Finance
+178,2015,179,Armed Forces and National Security
+179,2015,180,Economics and Public Finance
+180,2015,181,Economics and Public Finance
+181,2015,182,Economics and Public Finance
+182,2015,183,Economics and Public Finance
+183,2015,184,Nomination
+184,2015,185,Nomination
+185,2015,186,Economics and Public Finance
+186,2015,187,Economics and Public Finance
+187,2015,188,Economics and Public Finance
+188,2015,189,Economics and Public Finance
+189,2015,190,Economics and Public Finance
+190,2015,191,Economics and Public Finance
+191,2015,192,Economics and Public Finance
+192,2015,193,Economics and Public Finance
+193,2015,194,Armed Forces and National Security
+194,2015,195,Armed Forces and National Security
+195,2015,196,Armed Forces and National Security
+196,2015,197,Armed Forces and National Security
+197,2015,198,Armed Forces and National Security
+198,2015,199,Armed Forces and National Security
+199,2015,200,Armed Forces and National Security
+200,2015,201,Armed Forces and National Security
+201,2015,202,Armed Forces and National Security
+202,2015,203,Armed Forces and National Security
+203,2015,204,Armed Forces and National Security
+204,2015,205,Armed Forces and National Security
+205,2015,206,Armed Forces and National Security
+206,2015,207,Armed Forces and National Security
+207,2015,208,Nomination
+208,2015,209,Armed Forces and National Security
+209,2015,210,Armed Forces and National Security
+210,2015,211,Armed Forces and National Security
+211,2015,212,Armed Forces and National Security
+212,2015,213,Armed Forces and National Security
+213,2015,214,Armed Forces and National Security
+214,2015,215,Armed Forces and National Security
+215,2015,216,Armed Forces and National Security
+216,2015,217,Nomination
+217,2015,218,Foreign Trade and International Finance
+218,2015,219,Foreign Trade and International Finance
+219,2015,220,Economics and Public Finance
+220,2015,221,Nomination
+221,2015,222,Education
+222,2015,223,Education
+223,2015,224,Education
+224,2015,225,Education
+225,2015,226,Education
+226,2015,227,Education
+227,2015,228,Education
+228,2015,229,Armed Forces and National Security
+229,2015,230,Armed Forces and National Security
+230,2015,231,Education
+231,2015,232,Education
+232,2015,233,Education
+233,2015,234,Education
+234,2015,235,Education
+235,2015,236,Education
+236,2015,237,Education
+237,2015,238,Education
+238,2015,239,Education
+239,2015,240,Education
+240,2015,241,Education
+241,2015,242,Education
+242,2015,243,Education
+243,2015,244,Education
+244,2015,245,Education
+245,2015,246,Education
+246,2015,247,Education
+247,2015,248,Education
+248,2015,249,Education
+249,2015,250,Transportation and Public Works
+250,2015,251,Transportation and Public Works
+251,2015,252,Transportation and Public Works
+252,2015,253,Transportation and Public Works
+253,2015,254,Transportation and Public Works
+254,2015,255,Transportation and Public Works
+255,2015,256,Transportation and Public Works
+256,2015,257,Transportation and Public Works
+257,2015,258,Transportation and Public Works
+258,2015,259,Transportation and Public Works
+259,2015,260,Transportation and Public Works
+260,2015,261,Transportation and Public Works
+261,2015,262,Health
+262,2015,263,Nomination
+263,2015,264,Taxation
+264,2015,265,Armed Forces and National Security
+265,2015,266,Taxation
+266,2015,267,Armed Forces and National Security
+267,2015,268,Crime and Law Enforcement
+268,2015,269,Armed Forces and National Security
+269,2015,270,Taxation
+270,2015,271,Economics and Public Finance
+271,2015,272,Economics and Public Finance
+272,2015,273,Economics and Public Finance
+273,2015,274,Nomination
+274,2015,275,Armed Forces and National Security
+275,2015,276,Armed Forces and National Security
+276,2015,277,Armed Forces and National Security
+277,2015,278,Economics and Public Finance
+278,2015,279,Nomination
+279,2015,280,Immigration
+280,2015,281,Government Operations and Politics
+281,2015,282,Government Operations and Politics
+282,2015,283,Nomination
+283,2015,284,Nomination
+284,2015,285,Government Operations and Politics
+285,2015,286,Government Operations and Politics
+286,2015,287,Government Operations and Politics
+287,2015,288,Government Operations and Politics
+288,2015,289,Government Operations and Politics
+289,2015,290,Government Operations and Politics
+290,2015,291,Government Operations and Politics
+291,2015,292,Economics and Public Finance
+292,2015,293,Economics and Public Finance
+293,2015,294,Economics and Public Finance
+294,2015,295,Environmental Protection
+295,2015,296,Environmental Protection
+296,2015,297,Environmental Protection
+297,2015,298,Armed Forces and National Security
+298,2015,299,Economics and Public Finance
+299,2015,300,Nomination
+300,2015,301,Armed Forces and National Security
+301,2015,302,Economics and Public Finance
+302,2015,303,Transportation and Public Works
+303,2015,304,Transportation and Public Works
+304,2015,305,Nomination
+305,2015,306,Environmental Protection
+306,2015,307,Environmental Protection
+307,2015,308,Education
+308,2015,309,Nomination
+309,2015,310,Nomination
+310,2015,311,Health
+311,2015,312,Health
+312,2015,313,Health
+313,2015,314,Health
+314,2015,315,Health
+315,2015,316,Health
+316,2015,317,Health
+317,2015,318,Health
+318,2015,319,Health
+319,2015,320,Health
+320,2015,321,Health
+321,2015,322,Health
+322,2015,323,Health
+323,2015,324,Health
+324,2015,325,Health
+325,2015,326,Health
+326,2015,327,Health
+327,2015,328,Health
+328,2015,329,Health
+329,2015,330,Transportation and Public Works
+330,2015,331,Transportation and Public Works
+331,2015,332,Nomination
+332,2015,333,Education
+333,2015,334,Education
+334,2015,335,Nomination
+335,2015,336,Economics and Public Finance
+336,2015,337,Economics and Public Finance
+337,2015,338,Economics and Public Finance
+338,2015,339,Economics and Public Finance
+339,2016,1,Nomination
+340,2016,2,Finance and Financial Sector
+341,2016,3,Nomination
+342,2016,4,Immigration
+343,2016,5,Environmental Protection
+344,2016,6,Nomination
+345,2016,7,Energy
+346,2016,8,Energy
+347,2016,9,Energy
+348,2016,10,Energy
+349,2016,11,Energy
+350,2016,12,Energy
+351,2016,13,Energy
+352,2016,14,Energy
+353,2016,15,Energy
+354,2016,16,Energy
+355,2016,17,Energy
+356,2016,18,Nomination
+357,2016,19,Nomination
+358,2016,20,International Affairs
+359,2016,21,Armed Forces and National Security
+360,2016,22,Armed Forces and National Security
+361,2016,23,Nomination
+362,2016,24,Nomination
+363,2016,25,Nomination
+364,2016,26,Law
+365,2016,27,Crime and Law Enforcement
+366,2016,28,Crime and Law Enforcement
+367,2016,29,Crime and Law Enforcement
+368,2016,30,Crime and Law Enforcement
+369,2016,31,Crime and Law Enforcement
+370,2016,32,Crime and Law Enforcement
+371,2016,33,Crime and Law Enforcement
+372,2016,34,Crime and Law Enforcement
+373,2016,35,International Affairs
+374,2016,36,Nomination
+375,2016,37,Health
+376,2016,38,Civil actions and liability
+377,2016,39,Crime and Law Enforcement
+378,2016,40,Taxation
+379,2016,41,Taxation
+380,2016,42,Taxation
+381,2016,43,Taxation
+382,2016,44,Nomination
+383,2016,45,Taxation
+384,2016,46,Taxation
+385,2016,47,Taxation
+386,2016,48,Energy
+387,2016,49,Energy
+388,2016,50,Energy
+389,2016,51,Energy
+390,2016,52,Energy
+391,2016,53,Energy
+392,2016,54,Energy
+393,2016,55,Economics and Public Finance
+394,2016,56,Economics and Public Finance
+395,2016,57,Economics and Public Finance
+396,2016,58,Economics and Public Finance
+397,2016,59,Economics and Public Finance
+398,2016,60,Economics and Public Finance
+399,2016,61,Economics and Public Finance
+400,2016,62,Economics and Public Finance
+401,2016,63,Economics and Public Finance
+402,2016,64,Economics and Public Finance
+403,2016,65,Economics and Public Finance
+404,2016,66,Economics and Public Finance
+405,2016,67,Economics and Public Finance
+406,2016,68,Economics and Public Finance
+407,2016,69,Economics and Public Finance
+408,2016,70,Economics and Public Finance
+409,2016,71,Economics and Public Finance
+410,2016,72,Nomination
+411,2016,73,Economics and Public Finance
+412,2016,74,Economics and Public Finance
+413,2016,75,Economics and Public Finance
+414,2016,76,Economics and Public Finance
+415,2016,77,Economics and Public Finance
+416,2016,78,Economics and Public Finance
+417,2016,79,Economics and Public Finance
+418,2016,80,Economics and Public Finance
+419,2016,81,Economics and Public Finance
+420,2016,82,Economics and Public Finance
+421,2016,83,Crime and Law Enforcement
+422,2016,84,Labor and Employment
+423,2016,85,Agriculture and Food
+424,2016,86,Agriculture and Food
+425,2016,87,Armed Forces and National Security
+426,2016,88,Nomination
