@@ -1,0 +1,11 @@
+America's Small Business Tax Relief Act of 2015
+
+(Sec. 2) This bill amends the Internal Revenue Code to make permanent after 2014 the $500,000 allowance for the expensing of depreciable business property (section 179 property) and the $2 million threshold after which the amount of such allowance is reduced. Both the allowance and the threshold amount are indexed for inflation for taxable years beginning after 2015. The allowance is also made permanent for computer software and qualified real property (i.e., qualified leasehold improvement property, restaurant property, and retail improvement property). The exclusion of air conditioning and heating units from the definition of section 179 property is eliminated.
+
+The taxpayer is allowed to revoke an election to expense section 179 property without first obtaining consent from the Department of the Treasury.
+
+(Sec. 3) The reduction (from 10 years to 5 years) of the period during which the built-in gains of an S corporation are subject to tax is made permanent.
+
+(Sec. 4) The tax rule requiring a decrease in the basis of a shareholder's stock in an S corporation that makes tax deductible charitable contributions of property is made permanent.
+
+(Sec. 5) The budgetary effects of this Act are excluded from PAYGO scorecards under the Statutory Pay-As-You-Go Act of 2010.

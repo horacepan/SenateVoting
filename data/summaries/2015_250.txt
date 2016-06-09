@@ -1,0 +1,1217 @@
+Developing a Reliable and Innovative Vision for the Economy Act or the DRIVE Act
+
+DIVISION A--FEDERAL-AID HIGHWAYS AND HIGHWAY SAFETY CONSTRUCTION PROGRAMS
+
+TITLE I--FEDERAL-AID HIGHWAYS
+
+Subtitle A--Authorizations and Programs (Sec. 11001) Authorizes appropriations out of the Highway Trust Fund (HTF) (other than the Mass Transit Account) for FY2016-FY2021 for:
+
+ certain core Federal-aid highway programs; the transportation infrastructure finance and innovation program; the federal lands, tribal transportation, and lands access programs; the territorial and Puerto Rico highway program; the major projects program; the highway research and development program; the technology and innovation deployment program; training and education; the intelligent transportation systems (ITS) program; and the university transportation centers program. Authorizes appropriations out of the general fund of the Treasury for the Bureau of Transportation Statistics.
+
+Requires the expenditure of 10% of amounts made available for federal-aid highways and public transportation programs on small business concerns owned and controlled by socially and economically disadvantaged individuals.
+
+Requires states to compile annual lists of small disadvantaged business enterprises according to minimum uniform criteria established by the Department of Transportation (DOT).
+
+(Sec. 11002) Prescribes obligation ceilings for certain federal-aid highway and highway safety construction programs, with specified exceptions.
+
+Prescribes requirements, including a formula, and restrictions for certain FY2016-FY2021 distributions from the obligation limitation for federal-aid highways. Requires DOT to redistribute to the states any federal-aid highway program funds that, because of any obligation limitation imposed, will not be allocated or otherwise made available to them for obligation for surface transportation program projects.
+
+(Sec. 11003) Authorizes appropriations for Federal Highway Administration (FHWA) administrative expenses.
+
+(Sec. 11004) Revises formulae for the allocation of surface transportation program (STP) funds to states in urbanized areas with populations of over 200,000 and other areas of 5,000 or more.
+
+Requires states to obligate a specified portion of their STP apportionments for projects for the replacement or rehabilitation of off-National Highway System (NHS) bridges (including a specified amount for off-NHS bridges located on non-federal-aid highways).
+
+Authorizes the governor of a state that shares a border with Canada or Mexico to designate at least 5% of its apportionment of STP funds for each fiscal year for border infrastructure projects.
+
+(Sec. 11005) Revises requirements for metropolitan transportation planning.
+
+Prescribes requirements for selection of metropolitan planning organization (MPO) officials or representatives.
+
+Treats the Lake Tahoe Region as:
+
+ an MPO, a transportation management area, and an urbanized area (comprised of a population of 145,000 in California and a population of 65,000 in Nevada). Prescribes formulae for the suballocation of STP and transportation alternatives program funds for a fiscal year for those areas.
+
+(Sec. 11006) Revises requirements for statewide and nonmetropolitan transportation planning.
+
+(Sec. 11007) Reduces the amount of FHWA administrative funds DOT must deduct each fiscal year for highway use tax evasion projects.
+
+(Sec. 11008) Prescribes requirements for the bundling of two or more similar projects for the replacement or repair of structurally deficient bridges.
+
+(Sec. 11009) Authorizes DOT, upon state request, to exercise all existing flexibilities and exceptions to federal-aid highway requirements for certain rural road and rural bridge projects.
+
+(Sec. 11010) Revises formulae for certain allocations of funds to states for construction of ferry boats and ferry terminal facilities.
+
+Authorizes appropriations for FY2016-FY2021.
+
+Makes certain funds available for the National Ferry Database.
+
+(Sec. 11011) Revises the highway safety improvement program. Makes eligible as highway safety improvement projects any installation of vehicle-to-infrastructure communication equipment, pedestrian hybrid beacons, roadway improvements that provide separation between pedestrians and motor vehicles, and other types of infrastructure safety projects.
+
+(Sec. 11012) Authorizes a state to elect not to collect fundamental data elements for the model inventory of roadway elements on public roads that are gravel roads or otherwise unpaved if certain circumstances prevail.
+
+(Sec. 11013) Revises congestion mitigation and air quality improvement (CMAQ) program requirements. Requires states and MPOs to use PM2.5 priority funding on the most cost-effective CMAQ projects and programs proven to reduce directly emitted fine particulate matter.
+
+Authorizes a state or MPO also to elect to obligate PM2.5 priority funds to the most cost-effective CMAQ projects to reduce emissions from port-related landside nonroad or on-road equipment that operates within a PM2.5 nonattainment or maintenance area.
+
+(Sec.11014) Revises and makes permanent the reservation of $850 million of program funds for transportation enhancements apportioned to a state for each fiscal year for surface transportation alternatives, recreational trails program, and safe routes to school program projects.
+
+Directs DOT to develop regulations and guidance that encourages the use of programmatic approaches to environmental reviews, expedited procurement techniques, and other best practices for small, low-impact infrastructure projects.
+
+(Sec. 11015) Amends the Moving Ahead for Progress in the 21st Century Act (MAP-21) to extend through FY2021 the availability of a specified amount of FHWA administrative funds for:
+
+ certain safety-related activities, and operation of certain safety-related clearinghouses. (Sec. 11016) Directs DOT to issue guidance on working with state departments of transportation that request assistance from FHWA division offices to:
+
+ review principal arterials within a state that were added to the NHS as of October 1, 2012, and identify any necessary functional classification changes to rural and urban principal arterials. Directs DOT to:
+
+ review the NHS modification process, and ensure that a state may submit requests to modify the NHS by withdrawing a road from it. (Sec. 11017) Revises the toll roads, bridges, tunnels, and ferries program.
+
+Requires private motorcoaches that serve the public to have access to toll facilities equal to that of public transportation buses.
+
+(Sec. 11018) Revises certain exceptions to high occupancy vehicle (HOV) facility requirements.
+
+Authorizes a state agency that levies a toll on vehicles for use of HOV facilities to:
+
+ designate classes of vehicles exempt from the toll, and charge different toll rates for different classes of vehicles. Permits state agencies to allow alternative fuel vehicles and new qualified plug-in electric drive motor vehicles to use HOV facilities provided certain requirements are met.
+
+Adds a requirement that a state agency submit to DOT for approval a plan to bring a degraded facility back into compliance with the minimum average operating speed within 180 days after a HOV facility is considered degraded. ("Degraded" means failure of vehicles operating on HOV lanes to maintain minimum average operating speed 90% of the time over a consecutive 180-day period during morning and/or evening weekday peak hour periods.)
+
+(Sec. 11019) Amends the Transportation Equity Act for the 21st Century to revise Interstate System (IS) reconstruction and rehabilitation pilot program eligibility requirements.
+
+Limits to maintenance of toll facilities the use, during the pilot program, of a state's apportionment of national highway performance program funds.
+
+(Sec. 11020) Revises the emergency relief fund program.
+
+Treats as an eligible expense for emergency relief program funding the costs of disaster debris removal for projects for the repair or reconstruction of federal-aid highways on tribal transportation facilities, federal lands transportation facilities, or other federally-owned roads that are open to public travel.
+
+(Sec. 11021) Prescribes requirements for DOT to close or restrict loads on bridges owned by federal agencies or tribal governments.
+
+(Sec. 11022) Directs DOT to designate national electric vehicle charging and natural gas fueling corridors that identify the need for electric vehicle infrastructure and natural gas fueling infrastructure at strategic locations along major national highways.
+
+(Sec. 11023) Permits state asset management plans for the NHS under the national highway performance program to include a designation of a critical infrastructure network of facilities. Authorizes states to use the apportionment of national highway performance program funds for projects to reduce the risk of failure of such facilities.
+
+(Sec. 11024) Revises funding requirements for the tribal transportation program to:
+
+ reduce from 6% to 5% of authorized program funds the maximum amount that either DOT or the Department of the Interior may use for certain administrative expenses, and increase from 2% to 3% of such funds the allocation for specified bridge projects. (Sec. 11025) Directs DOT to establish a nationally significant federal lands and tribal projects program to fund construction, reconstruction, or rehabilitation of nationally significant federal lands and tribal transportation projects.
+
+Authorizes appropriations for FY2016-FY2021.
+
+(Sec. 11026) Revises requirements for federal lands and tribal transportation programs.
+
+Authorizes DOT to conduct cooperative research and technology deployment in coordination with federal land management agencies for transportation planning of federal lands and tribal transportation facilities projects.
+
+Requires DOT to combine and use no more than 5% of federal lands transportation program and federal lands access program funds for transportation planning activities for federal lands transportation facilities, federal lands access transportation facilities, and other federally-owned roads open to public travel.
+
+Authorizes use of such funds also for:
+
+ inspections on federally-owned bridges even if not included in the national federal lands transportation facility inventory, and transportation planning activities carried out by federal land management agencies. Subtitle B--Acceleration of Project Delivery
+
+(Sec. 11101) Amends MAP-21 to require specified inflationary adjustments to certain dollar amount limitations in federal-aid highway projects of limited federal assistance categorical excluded from the requirements relating to environmental assessments or environmental impact statements.
+
+(A "categorical exclusion" under the National Environmental Policy Act of 1969 [NEPA] is a category of actions which do not individually or cumulatively have a significant effect on the human environment and which have been found to have no such effect in procedures adopted by a federal agency in implementing environmental regulations and for which, therefore, neither an Environmental Assessment nor an Environmental Impact Statement is required.)
+
+(Sec. 11102) Directs DOT to develop a template programmatic agreement with states that provides for efficient procedures for evaluating categorical exclusion determinations that normally do not require any further NEPA approvals by the FHWA.
+
+(Sec. 11103) Grants DOT, as federal lead agency in the environmental review process for a highway project, public transportation capital project, or multimodal project, authority and responsibility to consider and respond to comments received from participating federal and non-federal agencies on matters within the special expertise or jurisdiction of those agencies.
+
+(Sec. 11104) Prescribes procedures for accelerating the project delivery decisionmaking process with respect to:
+
+ environmental review of highway, public transportation, or multimodal projects; coordination among relevant agencies in meeting project deadlines; public availability of the status of reviews, approvals, and permits for projects; integration of planning and environmental review of projects between the lead agency (DOT) and participating federal and non-federal agencies; and adoption of departmental environmental assessments or impact statements or other NEPA documents. (Sec. 11111) Requires DOT, upon state request, to provide technical assistance to a state assuming responsibility for making categorical exclusion determinations for highway or related projects.
+
+(Sec. 11112) Revises requirements for termination of a state from the surface transportation project delivery program.
+
+(Sec. 11113) Revises requirements for application of categorical exclusions for multimodal projects.
+
+(Sec. 11114) Directs DOT to examine ways to modernize and improve the NEPA environmental review process for federal-aid highway projects.
+
+(Sec. 11115) Authorizes states to allow the erection of service club, charitable association, or religious service signs of a certain size on the Interstate System (IS), provided the state notifies the FHWA.
+
+(Sec. 11116) Prescribes requirements for DOT to preserve certain historic sites, especially by aligning, to the maximum extent practicable, specified preservation requirements with NEPA and any avoidance alternative analysis it requires.
+
+(Sec. 11117) Exempts from consideration for parkland, wildlife and waterfowl refuge, and historic site preservation purposes any common post-1945 concrete or steel bridge or culvert already exempt from individual review of its effect on any historic property.
+
+(Sec. 11118) Authorizes the take of nesting swallows, between April 1 and August 31 of any year, without individual permit requirements to facilitate bridge construction or repair projects, provided the Department of the Interior promulgates a regulation under the Migratory Bird Treaty Act to allow it.
+
+(Sec. 1119) Authorizes a recipient or subrecipient of federal-aid highway funds to: (1) incur preliminary preconstruction development and engineering costs for an eligible project before receiving project authorization from the state, and (2) request reimbursement of federal funds after the project authorization is received.
+
+Subtitle C--Miscellaneous
+
+(Sec. 11201) Permits an increase in the federal share of costs for federal-aid highway projects of up to 5% of what a state has contributed in qualified revenues for such project costs, if the state has contributed at least 5% of total project costs.
+
+Defines "qualified revenues" to mean any amounts:
+
+ collected by a state for the registration of a passenger vehicle operating solely on fuels not subject to federal tax; and that do not exceed, for such a vehicle, an annual amount paid for federal motor fuels taxes on fuel used by an average car fueled solely by gasoline. Requires a DOT report to Congress on the most efficient and equitable means of taxing motor vehicle fuels not subject to a federal tax.
+
+(Sec. 11203) Exempts from federal vehicle weight limitations on the IS, by an amount determines according to a specified formula, the operation of natural gas vehicles (maximum gross vehicle weight of 82,000 pounds) and emergency vehicles (maximum gross vehicle weight of 86,000 pounds).
+
+Permits the continued operation on any IS-designated segment of U.S. Route 63 between the exits for highways 14 and 75 in Arkansas of any trucks that could operate legally on the segment at the posted speed limit before that designation. Permits the continued operation during daylight hours of any truck that can only travel on the segment below the posted speed limit if it could operate legally on the segment before IS designation.
+
+(Sec. 11204) Amends the Intermodal Surface Transportation Efficiency Act of 1991 to revise the high priority Raleigh-Norfolk Corridor of the NHS between Raleigh, North Carolina, and Norfolk, Virginia, to include Rocky Mount, Williamston, and Elizabeth City, North Carolina.
+
+Includes Texas State Highway 44 from United States Route 59 at Freer, Texas, to Texas State Highway 358 as part of the high priority Lower Rio Grande Valley Corridor of the NHS in Texas.
+
+Designates as a high priority corridor on the NHS, as part of Interstate Route I-11, the Intermountain West Corridor from the vicinity of Las Vegas, Nevada, extending north along U.S. Route 95, terminating at Interstate Route 80.
+
+Declares as high priority corridors on the NHS as well as segments of the IS: (1) U.S. Route 117/Interstate Route 795 from U.S. Route 70 in Goldsboro, Wayne County, North Carolina, to Interstate Route 40 west of Faison, Sampson County, North Carolina; (2) U.S. Route 70 from its intersection with Interstate Route 40 in Garner, Wake County, North Carolina, to the Port at Morehead City, Carteret County, North Carolina; and (3) the Central Texas Corridor commencing at the logical terminus of Interstate 10, and generally following portions of U.S. Route 190 eastward passing in the vicinity Fort Hood, Killeen, Belton, Temple, Bryan, College Station, Huntsville, Livingston, Woodville, and to the logical terminus of Texas Highway 63 at the Sabine River Bridge at Burrs Crossing.
+
+(Sec. 11205) Declares that "state repeat intoxicated driver law," with respect to federal requirements for minimum state penalties for repeat offenders for driving while intoxicated or driving under the influence, means any combination of state laws.
+
+(Sec. 11206) Makes eligible for funding under the National Highway Performance Program and the Surface Transportation Program any projects for the installation of vehicle-to-infrastructure communication equipment.
+
+(Sec. 11207) Allows a state transportation agency to relinquish park-and-ride lot facilities, or portions of them, to a local government agency for highway purposes if authorized to do so under state law.
+
+(Sec. 11208) Directs DOT to:
+
+ establish a nationwide toll credit monitoring and tracking system, and a toll credit marketplace pilot program in which eligible states may use proceeds from the transfer or sale of credits to fund the nonfederal share of surface transportation projects. (Sec. 11209) Directs DOT to establish a regional infrastructure demonstration program to assist entities in developing improved infrastructure priorities and financing strategies for accelerated development of projects funded under the Transportation Infrastructure Finance and Innovation Act program.
+
+Authorizes appropriations.
+
+(Sec. 11210) Amends the Intermodal Surface Transportation Efficiency Act of 1991 to declare State Route 410, the Sonoran Corridor connecting Interstate 19 to Interstate 10 south of the Tucson International Airport, a high priority corridor on the NHS.
+
+TITLE II--TRANSPORTATION INNOVATION
+
+Subtitle A--Research
+
+(Sec. 12001) Revises requirements for the highway and bridge infrastructure research and development program and the Technology and Innovation Deployment Program.
+
+Directs DOT to use at least 50% of program funds to make competitive innovative grants to, and enter into cooperative agreements and contracts with, states, other federal agencies, local governments, MPOs, institutions of higher education, private sector, and nonprofit organizations to carry out demonstration programs to accelerate the deployment and adoption of transportation research activities.
+
+(Sec. 12002) Directs DOT to establish a competitive grant program to accelerate the deployment of the Intelligent Transportation System (ITS) program and ITS-enabled operational strategies to enhance mobility of people and goods on the surface transportation system.
+
+(Sec. 12003) Directs DOT to enter into an agreement with the Transportation Research Board of the National Academies to study actions needed to upgrade and restore the Dwight D. Eisenhower National System of Interstate and Defense Highways to its role as a premier system network that meets the growing and shifting demands of the 21st century and for the next 50 years.
+
+(Sec. 12004) Directs DOT to:
+
+ promote the research of user-based alternative revenue mechanisms that preserve a user fee structure to maintain the long-term solvency of the HTF, and establish a Surface Transportation Revenue Alternatives Advisory Council. Authorizes DOT to provide grants to states or other appropriate entities to conduct such research.
+
+Subtitle B--Data
+
+(Sec. 12101) Requires any entity carrying out a project under the tribal transportation program to report annually to DOT and to Interior specified project data.
+
+(Sec. 12102) Directs the FHWA to develop data sets and analysis tools to assist MPOs, states, and the FHWA in carrying out performance management analyses of federal-aid highways.
+
+Subtitle C--Transparency and Best Practices
+
+(Sec. 12201) Directs the FHWA to continue the Every Day Counts initiative to work with states, local transportation agencies, and industry stakeholders to identify and deploy proven innovative best practices and products that accelerate transportation innovation deployment and project delivery as well as improve the environment and roadway safety.
+
+(Sec. 12202) Directs DOT, in coordination with the heads of federal agencies responsible for the review and approval of federal-aid highway projects, to measure and report on progress toward aligning federal reviews of such projects and improvement of project delivery.
+
+(Sec. 12203) Directs DOT establish a competitive grant program to reward states, local governments, tribal organizations, and MPOs for implementation of policies and procedures that support performance-based management or use innovative technologies and best practices that improve the performance of the surface transportation system.
+
+Authorizes appropriations for FY2016-FY2021.
+
+(Sec. 12204) Directs DOT to compile and make available on the DOT public website any data on the amounts of federal-aid highway program funds made available under this Act for each fiscal year.
+
+(Sec. 12205) Directs the Government Accountability Office (GAO) to make updated reports to Congress every five years on FHWA administrative expenses funded from the HTF during the three most recent fiscal years.
+
+(Sec. 12206) Directs DOT to make every required report available on its public website.
+
+(Sec. 12208) Requires the design for new construction or rehabilitation of NHS highways to take into account, in addition to other specified criteria, the environment and safety for other modes of transportation.
+
+Directs DOT to establish standards to ensure that the design of federal surface transportation projects provide for safety for both motorized and nonmotorized users of the transportation network.
+
+TITLE III--TRANSPORTATION INFRASTRUCTURE FINANCE AND INNOVATION ACT OF 1998 AMENDMENTS
+
+(Sec. 13001) Amends the Transportation Infrastructure Finance and Innovation Act (TIFIA) of 1998 to authorize as an eligible project cost the capitalizing of a rural projects fund using proceeds of secured loans made to state infrastructure banks to make loans for rural infrastructure projects.
+
+Revises TIFIA program eligibility requirements, adding projects for public infrastructure near a fixed guideway transit facility, acquisition of plant and wildlife habitat, and capitalization of a rural projects fund by a state infrastructure bank.
+
+Requires the reservation of $2 million of TIFIA program funds for highway infrastructure projects not exceeding $75 million.
+
+Revises and makes permanent the state infrastructure bank program.
+
+TITLE IV--TECHNICAL CORRECTIONS
+
+(Sec. 14001) Makes various technical corrections to federal transportation laws.
+
+TITLE V--MISCELLANEOUS
+
+(Sec. 15001) Amends MAP-21 to require that the federal share, through FY2050, of the cost of constructing highways and access roads on the Appalachian development highway system may be lower than 100% (under current law shall be 100%).
+
+(Sec. 15002) Revises and reauthorizes through FY2021 the Appalachian Regional Development Program.
+
+Authorizes the Appalachian Regional Commission to provide technical assistance, make grants, and enter into contracts in the Appalachian region for projects to increase affordable access to broadband networks throughout the Appalachian region and for related projects and activities.
+
+(Sec. 15003) Amends the Water Infrastructure Finance and Innovation Act to repeal the prohibition against the direct or indirect financing of water resources infrastructure projects receiving federal credit assistance with proceeds of any:
+
+ obligation the interest on which is tax exempt, or with respect to which credit is allowable under a qualified tax credit bond or a Build America Bond. (Sec. 15004) Authorizes as an eligible project cost for the construction of a federal-aid highway the enhancement of habitat and forage for pollinators (i.e., bees, birds, bats, Monarch and other butterflies) on rights-of-way adjacent to such highways.
+
+Directs DOT, in conjunction with willing states, to carry out programs that encourage:
+
+ integrated vegetation management practices on roadsides and other transportation rights-of-way, including reduced mowing; and the development of habitat and forage for pollinators through planting of native forbs and grasses, including noninvasive, native milkweed species. Authorizes federal funds for the provision of habitat, forage, and migratory way stations for Monarch butterflies, other native pollinators, and honey bees that is related to a federally-funded highway project.
+
+(Sec. 15005) Directs the FHWA to commission the Transportation Research Board of the National Academy of Sciences to study the performance of bridges receiving funding under the innovative bridge research and construction program in meeting that program's goals.
+
+(Sec. 15006) Amends the Dingell-Johnson Sport Fish Restoration Act to extend through FY2021 the authorization of appropriations, and the current requirements for their distribution, for fish restoration and management projects.
+
+Extends the set-aside for administrative expenses for carrying out such projects.
+
+DIVISION B--PUBLIC TRANSPORTATION
+
+TITLE XXI--FEDERAL PUBLIC TRANSPORTATION ACT
+
+Federal Public Transportation Act of 2015
+
+(Sec. 21003) Revises requirements for metropolitan transportation planning and statewide and nonmetropolitan transportation planning.
+
+Prescribes requirements for the selection of representatives or officials to metropolitan planning organizations (MPOs).
+
+Treats the Lake Tahoe region as an MPO, a transportation management area, and an urbanized area with specified populations in California and Nevada.
+
+(Sec. 21005) Revises the urbanized area formula public transportation grant program for an urbanized area with a population under 200,000.
+
+Authorizes DOT to make grants to finance the operating cost of equipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, for public transportation systems that operate a number of buses in a specified range in general public demand response service.
+
+Allows each public transportation system that is a party to a written agreement on funds allocation with one or more other public transportation systems within the urbanized area to follow the terms of the agreement without regard to measured vehicle revenue hours if the agreement allocates such funds by a method other than by measuring vehicle revenue hours.
+
+Authorizes DOT to award such grants to finance the operating cost of equipment and facilities to recipients for public transportation in an area with a population of at least 200,000. Authorizes such grant for a maximum of 2 years of targeted assistance to such an area with a three-month unemployment rate:
+
+ greater than 7%, and at least 2 percentage points greater than the lowest 3-month unemployment rate for the area during the preceding 5-year period. (Sec. 21006) Revises requirements for the fixed guideway capital investment grants program.
+
+Eliminates the use of new fixed guideway grants for consideration of policies and land use patterns that promote public transportation.
+
+Includes small start projects in programs of interrelated projects (together with new fixed guideway capital projects and core capacity improvement projects, as currently).
+
+Authorizes DOT to award such grants for new fixed guideway capital projects and core capacity improvement projects for both public transportation and intercity passenger rail service.
+
+Prescribes the federal share of project costs at up to 80%.
+
+Authorizes DOT to award up to 10 capital investment grants to states and local governments to assist in financing new fixed guideway capital projects or small start projects and core capacity improvement projects. Prescribes requirements for the expedited approval of such projects. Sets 25% of the net capital project cost as the federal share under the grant.
+
+(Sec. 21007) Directs the DOT Interagency Transportation Coordinating Council on Access and Mobility to publish a strategic plan that
+
+ outlines federal agency role and responsibilities with respect to local transportation coordination, including non-emergency medical transportation, for seniors and individuals with disabilities; and addresses certain Council recommendations, including a cost-sharing policy for grantees. Authorizes DOT to award grants to eligible recipients to assist in financing innovative projects for the transportation of seniors and disabled individuals that improve the coordination of transportation services and non-emergency medical transportation services.
+
+Prescribes the federal share of project costs at up to 80%.
+
+ (Sec. 21008) Revises the nonurbanized formula grant program.
+
+Directs DOT to apportion specified amounts of rural formula grants each fiscal year for public transportation on Indian reservations.
+
+Prescribes requirements for the allocation of such grants to multiple Indian tribes providing public transportation on tribal lands in a single Tribal Statistical Area.
+
+(Sec. 21009) Requires demonstration, deployment, or evaluation projects in public transportation to seek, among other things, the deployment of low or no emission vehicles, zero emission vehicles, or associated advanced technology.
+
+Prohibits DOT from making grants for the demonstration, deployment, or evaluation of a vehicle that is in revenue service unless the project makes significant technological advancements in the vehicle.
+
+Directs DOT to enter into a contract or cooperative agreement with, or make a grant to, up to two institutions of higher education to operate a facility to assess low or no emission vehicle components for use in low or no emission vehicles.
+
+Directs DOT to establish a public transportation cooperative research program with an independent governing board. Authorizes DOT to make grants to, and cooperative agreements with, the National Academy of Sciences to carry out public transportation research, development, and technology transfer activities.
+
+Repeals the transit cooperative research program.
+
+(Sec. 21011) Authorizes states (lead procurement agencies) and grantees of public transportation assistance to enter into a cooperative procurement contracts with one or more vendors for the purchase of rolling stock (railroad cars) and related equipment.
+
+Directs DOT to establish a pilot program for lead nonprofit entities similarly to enter into such contracts for such stock and equipment.
+
+Directs DOT to carry out an incentive program for grantees to enter into capital leases for:
+
+ the costs of rolling stock or related equipment, and certain zero emission vehicle components. (Sec. 21012) Revises requirements for the innovative public transportation workforce development grant program.
+
+(Sec. 21013) Revises Buy America requirements for public transportation projects. Authorizes DOT to waive such requirements when procuring rolling stock (including train control, communication, traction power equipment, and rolling stock prototypes) whose cost of components and subcomponents produced in the United States for:
+
+ FY2016 and FY2017, is more than 60% (as under current law) of the cost of all components of the rolling stock; FY2018 and FY2019, is more than 65% of the cost of all such components; and FY2020 and each fiscal year thereafter, is more than 70% of the cost of all components of such stock. Prescribes requirements for: (1) calculation of the domestic content of certain rolling stock frames or car shells for waiver purposes, and (2) a certification of domestic supply for denied waiver applications.
+
+(Sec. 21014) Directs DOT to prescribe regulations for project management oversight that include:
+
+ a requirement that oversight be limited to quarterly reviews of recipient compliance with the project management plan unless DOT finds that the recipient requires more frequent oversight because specified failures, and a process for recipients that require more frequent oversight to return to quarterly reviews. (Sec. 21015) Revises the public transportation safety program.
+
+Revises contents of the national public transportation safety plan to include, among other things, minimum safety standards for the safe operation of public transportation systems.
+
+Requires review of the efficacy of existing safety standards and protocols used in rail fixed guideway public transportation systems. Requires DOT to evaluate the need to establish federal minimum public transportation safety standards after conducting the review.
+
+(Sec. 21016) Revises the formula for the apportionment of state of good repair grants to states for high intensity fixed guideways.
+
+(Sec. 21017) Authorizes appropriations from the Highway Trust Fund (HTF) Mass Transit Account for FY2016-FY2021 for:
+
+ formula grants for public transportation, including allocations for specified projects; the research, development demonstration, and deployment program; technical assistance and standards development grants; human resources and training grants; public transportation emergency relief program; capital investment grants; and administration. (Sec. 21018) Allocates certain amounts to states and territories for FY2016-FY2021 for formula bus and bus facilities grants.
+
+Authorizes DOT to award competitive grants to recipients, states, or local governments for:
+
+ bus and bus facilities capital projects, and low or no emission bus projects. (Sec. 21019) Raises the salary of the Federal Transit Administrator from Level III to Level II of the Executive Schedule.
+
+(Sec. 21020) Repeals requirements for public transportation facility projects for bicycles.
+
+Sets aside a specified amount for each fiscal year for passenger ferry grants.
+
+DIVISION C--COMPREHENSIVE TRANSPORTATION AND CONSUMER PROTECTION ACT OF 2015
+
+Comprehensive Transportation and Consumer Protection Act of 2015
+
+TITLE XXXI--OFFICE OF THE SECRETARY
+
+Subtitle A--Accelerating Project Delivery
+
+(Sec. 31101) Prohibits any person designated to serve as the acting head of a DOT administration from continuing to perform the functions and duties of the office if specified time limitations would prevent the person from continuing to serve in a formal acting capacity.
+
+(Sec. 31102) Establishes in the DOT Office of the Secretary an Interagency Infrastructure Permitting Improvement Center, including an Infrastructure Permitting Steering Committee, to support modernization efforts at federal agencies and interagency pilots for innovative approaches to the permitting and review of infrastructure projects.
+
+Directs DOT to establish performance measures and targets regarding progress made toward aligning federal reviews of such projects, as well as reducing permitting time and improving project delivery.
+
+(Sec. 31103) Prescribes procedures for accelerating the project delivery decisionmaking process with respect to the environmental review of multimodal and transportation projects.
+
+(Sec. 31104) Directs DOT to develop a coordinated and concurrent environmental review and permitting process for transportation projects when initiating an environmental impact statement under NEPA.
+
+(Sec. 31105) Revises requirements for application of categorical exclusions for multimodal projects.
+
+(A "categorical exclusion" under NEPA is a category of actions which do not individually or cumulatively have a significant effect on the human environment and which have been found to have no such effect in procedures adopted by a federal agency in implementing environmental regulations and for which, therefore, neither an Environmental Assessment nor an Environmental Impact Statement is required.)
+
+(Sec. 31106) Directs DOT to establish an online platform and issue reporting standards to make available to the public the status and progress with respect to project compliance with NEPA requirements.
+
+(Sec. 31107) Revises and reauthorizes the state infrastructure bank program for FY2016-FY2021.
+
+(Sec. 31108) Authorizes $199 million from the Highway Trust Fund Mass Transit Account for FY2016 for grants to assist in financing the installation of positive train control systems.
+
+Subtitle B--Research
+
+(Sec. 31202) Requires the head of each DOT modal administration and joint program office to submit an annual modal research plan for approval to the DOT Assistant Secretary for Research and Technology (Assistant Secretary).
+
+Prohibits DOT from expending funds on research that has not previously been approved as part of an approved modal research plan unless:
+
+ such research is required by an Act of Congress, it was part of a contract funded before enactment of this Act, or DOT certifies to Congress that it is necessary before the approval of a plan. (Sec. 31203) Directs DOT to publish annually, on a public website, a comprehensive prospectus on all DOT research projects, including research funded through University Transportation Centers.
+
+Requires DOT to develop a five-year transportation research and development (R&D) strategic plan.
+
+(Sec. 31204) Requires DOT to appoint a career federal employee to serve as Research Ombudsman to address complaints about specific research projects.
+
+(Sec. 31205) Directs DOT to study digital technologies and information technologies, including shared mobility, data, transportation network companies, and on-demand transportation services to provide best practices for use of such information and technology in the planning of smart cities.
+
+(Sec. 31206) Declares that the DOT Bureau of Transportation Statistics (BTS) shall not be required to obtain the approval of any other officer or employee of:
+
+ DOT with respect to the collection or analysis of any information, or the U.S. government, before publication, with respect to the substance of any statistical technical reports or press releases lawfully prepared by the Bureau. Grants the Bureau a significant role in the disposition and allocation of its authorized budget, including:
+
+ all hiring, grants, cooperative agreements, and contracts awarded by the Bureau; and the disposition and allocation of amounts paid to the Bureau for cost-reimbursable projects. (Sec. 31207) Eliminates the Office of the Assistant Secretary for Research and Technology of the Research and Innovative Technology Administration. Makes the Secretary of Transportation (currently, Administrator of the Research and Innovative Technology Administration) responsible for coordination and review of DOT R&D programs and activities.
+
+(Sec. 31208) Eliminates the Office of Intermodalism of the Research and Innovative Technology Administration [Office of the Assistant Secretary for Research and Technology of DOT].
+
+Subtitle C--Port Performance Act
+
+Port Performance Act
+
+(Sec. 31303) Directs the BTS to establish a port performance statistics program to provide nationally consistent measures of performance of at least the nation's top 25 ports by tonnage, its top 25 ports by 20-foot equivalent unit, and its top 25 ports by dry bulk.
+
+Directs the BTS to collect monthly port performance measures for each specified U.S. port that receives federal assistance, or is subject to federal regulation to report annually to the BTS on statistics on capacity and throughput.
+
+TITLE XXXII--COMMERCIAL MOTOR VEHICLE AND DRIVER PROGRAMS
+
+Subtitle A--Compliance, Safety, and Accountability Reform
+
+(Sec. 32001) Directs the Federal Motor Carrier Safety Administration (FMCSA) to commission the National Research Council of the National Academies to study the Safety Measurement System (SMS) and the Compliance, Safety, Accountability (CSA) program.
+
+Requires the Council, in conducting this study, to analyze:
+
+ the accuracy with which the Behavior Analysis and Safety Improvement Categories (BASIC) safety measures used by the SMS identify high risk drivers and carriers and predict future crash risk or other safety indicators for individual drivers, motor carriers, and the highest risk carriers; and existing data collection gaps or data sufficiency problems and their impact on the efficacy of the CSA program. Directs the FMCSA, after submission of a report identifying any deficiency or opportunity for improvement in the CSA program or SMS, to submit a corrective action plan to Congress that identifies how FMCSA will address such concerns.
+
+(Sec. 32002) Requires the FMCSA to incorporate a safety improvement metrics methodology into the CSA program or establish a third-party process to allow recognition, improved score, approved tools, programs, and systems that exceed regulatory requirements or are used to enhance safety performance.
+
+(Sec. 32003) Declares that none of the analysis of violation information, enforcement prioritization, not-at-fault crashes, alerts, or the relative percentile for each BASIC developed through the CSA program may be made available to the general public (but state violation and inspection information may be presented) until the DOT Inspector General certifies that, among other things, any deficiencies identified in the correlation study required by this subtitle have been addressed and the corrective action plan has been implemented.
+
+(Sec. 32004) Directs the FMCSA to develop functional specifications to ensure the consistent and accurate input of data into systems and databases relating to the CSA program.
+
+(Sec. 32005) Requires the FMCSA also to initiate a demonstration program that allows motor carriers and drivers to request a review of crashes and the removal of crash data for use in the FMCSA safety measurement system of crashes, and removal from any weighting or carrier safety analysis, if the commercial motor vehicle was operated legally and another motorist in connection with the crash is found to have committed certain driving offenses.
+
+Authorizes the FMCSA to establish a fee system in which a motor carrier is charged a fee for each review of a crash the carrier requests.
+
+(Sec. 32006) Directs DOT to convene a working group of state representatives or state law enforcement officials, as well as representatives of industry, labor, safety advocates, and other interested individuals, to review the data elements of post-accident reports, for tow-away accidents involving commercial motor vehicles, that are reported to the federal government.
+
+(Sec. 32007) Directs the FMCSA to establish a program to recognize publicly motor carriers and drivers whose safety records and programs exceed compliance with FMCSA safety regulations and demonstrate clear and outstanding safety practices.
+
+(Sec. 32008) Requires DOT, after completion of the Inspector General's certification process, and the establishment of the Safety Fitness Determination program, to ensure that a review is completed on each motor carrier that demonstrates through performance data for four consecutive months that it poses the highest safety risk.
+
+Subtitle B--Transparency and Accountability
+
+(Sec. 32201) Directs the FMCSA to establish procedures for application for, and review of, the exemption from federal hours of service requirements for commercial motor vehicle drivers. Limits exemptions to a five-year period, with an additional renewal period of five years.
+
+Requires the FMCSA to make specified limited exemptions permanent.
+
+(Sec. 32202) Directs the FMCSA to revise federal safety fitness regulations for motor carriers to incorporate by reference the certification standards for roadside inspectors issued by the Commercial Vehicle Safety Alliance.
+
+(Sec. 32203) Directs the GAO to analyze FMCSA information technology and data collection and management systems.
+
+Subtitle C--Trucking Rules Updated by Comprehensive and Key Safety Reform
+
+(Sec. 32301) Directs FMCSA to report to Congress on the status of a final rule for:
+
+ the minimum entry-level training requirements for individuals operating a commercial motor vehicle, motor carrier safety fitness determinations, visibility of agricultural equipment, regulations to require that commercial motor vehicle drivers subject to federal hours of service and record of duty status requirements be equipped with an electronic control module to limit the maximum speed of a vehicle, and outstanding commercial motor vehicle safety regulations required by law and incomplete for more than two years. (Sec. 32302) shall prioritize the use of FMCSA resources for the completion of each outstanding statutory requirement for a rulemaking before beginning any new rulemaking unless there is a significant need to move forward with a new rulemaking.
+
+(Sec. 32303) Requires each FMCSA guidance document (other than a regulatory action) and interpretation to:
+
+ provide certain information, including point of contact information; and be published on the DOT website. Directs the FMCSA to review, at least once every five years, its guidance and enforcement policies to determine whether they are consistent and clear.
+
+(Sec. 32304) Directs FMCSA to publish on the DOT website all submitted petitions for regulatory action.
+
+(Sec. 32305) Prescribes requirements for public participation in FMCSA rulemaking as well as for an impact analysis of every proposed or final rule.
+
+Subtitle D--State Authorities
+
+(Sec. 32401) Directs the FMCSA to establish a working group to determine best practices for expeditious state approval of special permits for emergency response and recovery vehicles.
+
+(Sec. 32402) Grants any state affected by the length restrictions of the Intermodal Surface Transportation Efficiency Act of 1991 on commercial motor vehicles with two or more cargo-carrying units on federal and federal-aid highways the option to update the routes in the final list as long as the update shifts routes to divided highways or does not increase centerline miles by more than 5% and the change is expected to increase safety performance.
+
+(Sec. 32403) Authorizes the FMCSA to establish a six-year pilot program to study the feasibility of allowing licensed drivers between the ages of 18 and 21 to operate commercial motor vehicles.
+
+Allows states (including the District of Columbia) to enter into an interstate compact with contiguous states to allow such drivers to operate such vehicles across state lines.
+
+Subtitle E--Motor Carrier Safety Grant Consolidation
+
+(Sec. 32502) Revises requirements for the motor carrier safety assistance grant program.
+
+Directs DOT to publish approved state multiple-year motor carrier safety improvement plans, and annual updates, on the DOT public website.
+
+Authorizes DOT, in lieu of withdrawing approval of noncompliant state plans, to withhold from such states, for the fiscal year, graduated percentages of grant program funds.
+
+Directs DOT to administer a financial assistance program for discretionary grants to and cooperative agreements with states, local governments, federally-recognized Indian tribes, and other persons to carry out high priority motor carrier safety activities and projects.
+
+Requires DOT to establish an innovative technology deployment discretionary program of grants to states for the innovative technology deployment of commercial motor vehicle information systems and networks.
+
+Directs DOT to administer a commercial motor vehicle operators grant program to train individuals in the safe operation of commercial motor vehicles.
+
+Authorizes appropriations from the Highway Trust Fund (HTF) for FY2017-FY2021 for FMCSA Financial Assistance Programs, including:
+
+ the motor carrier safety assistance grant program, the high priority activities financial assistance grant program, the commercial motor vehicle operators grant program, and the commercial driver's license program implementation financial assistance grant program (established in this title). Repeals specified commercial motor vehicle safety programs.
+
+(Sec. 32503) Directs the DOT Office of Inspector General to report to Congress on its assessment of the new operator safety review program, including its effectiveness in reducing commercial motor vehicle crashes, fatalities, and injuries, and in improving commercial motor vehicle safety.
+
+(Sec. 32504) Renames the performance and registration information program as the performance and registration information systems management program.
+
+(Sec. 32505) Authorizes appropriations from HTF (other than the Mass Transit Account) for FY2016-FY2021 for FMCSA administrative expenses.
+
+Authorizes DOT to establish a motor carrier safety facility working capital fund for modernization and construction of motor carrier safety facilities and associated activities.
+
+Authorizes DOT to conduct an outreach and education program to be administered by the FMCSA.
+
+(Sec. 32506) Revises the program of financial assistance grants to states to implement the commercial driver's license program.
+
+Repeals the requirement that grants in a fiscal year to state agencies, local governments, or persons be for 100% of the costs of priority research, development or testing, demonstration projects, public education, or other special activities relating to commercial driver's licensing and motor vehicle safety.
+
+(Sec. 32507) Extends the authorization of appropriations from the HTF (other than the Mass Transit Account) for FY2016 for the motor carrier safety assistance grant program.
+
+Amends the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (SAFETEA-LU) to extend through FY2016 the authorization of appropriations from the HTF for FMCSA programs, including:
+
+ the commercial driver's license program improvement grants program, border enforcement grants, the performance and registration information systems management grant program, the commercial vehicle information systems and networks deployment program (also known as the innovative technology deployment program), and safety data improvement grants. Extends through FY2016 the set-aside of certain funds for:
+
+ high priority activities and projects to improve commercial motor vehicle safety and compliance with federal commercial motor vehicle safety regulations; and new entrant motor carrier audit grants. Extends through FY2016 the authorization of appropriations from the HTF (other than the Mass Transit Account) for the commercial motor vehicle operators grant program.
+
+(Sec. 32508) Directs DOT to establish a motor carrier safety assistance program formula working group to analyze requirements and factors for a new motor carrier safety assistance program allocation formula based on specified factors.
+
+Prescribes requirements for program funding prior to development of a new allocation formula.
+
+(Sec. 32509) Prescribes requirements for maintenance of effort funding for the lead state agency responsible for administering the motor carrier safety assistance plan for FY2017 and ensuing fiscal years if a new allocation formula has not been established for the pertinent fiscal year.
+
+Subtitle F--Miscellaneous Provisions
+
+(Sec. 32601) Directs DOT to revise certain federal regulations prohibiting obstructions to a driver's field of view to exempt from those prohibitions the voluntary mounting on a windshield of vehicle safety technology likely to achieve a level of safety equivalent to or greater than what would be achieved without the exemption.
+
+(Sec. 32602) Revises electronic logging devices requirements.
+
+Permits motor carriers to require its drivers to comply with federal hours of service requirements by using either a paper record of duty status form or an electronic logging device when transporting a motor home or recreation vehicle trailer in a driveaway-towaway operation (in which an empty or unladen motor vehicle with one or more sets of wheels is being transported between specified business facilities).
+
+(Sec. 32603) Revises requirements for a notice to DOT of cancellation of liability insurance for motor carriers, brokers, or freight forwarders. Grants DOT authority to suspend, as an alternative to revoking, the registration of the motor carrier, broker, or freight forwarder because of the lapse and subsequent cancellation of liability insurance.
+
+(Sec. 32604) Authorizes the FMCSA to request the chief driver licensing official of a state to provide driver record information on an individual from the National Driver Register in connection with an FMCSA safety investigation.
+
+(Sec. 32605) Directs the FMCSA to study the effects of motor carrier operator commutes exceeding 150 minutes commuting time on safety and commercial motor vehicle driver fatigue.
+
+(Sec. 32606) Directs DOT to establish a working group to develop recommendations on how to best convey to inexperienced consumers the information they need to know with respect to federal laws on the interstate transportation of household goods by motor carrier.
+
+(Sec. 32607) Amends SAFETEA-LU to exempt commuter vanpool operations from federal motor carrier safety regulations for commercial motor vehicles which transport between 9 and 15 passengers (including the driver).
+
+(Sec. 32608) Directs DOT to report to Congress regarding the design, development, testing, and implementation of wireless roadside inspection systems.
+
+(Sec. 32609) Prohibits DOT from revising, by rulemaking or other means, federal driver hours of service regulations for motor carriers of passengers until it conducts a study that accounts for operational differences in crash data for drivers in intercity motorcoach service and interstate property carrier operations and between segments of the intercity motorcoach industry.
+
+(Sec. 32610) Directs GAO to review:
+
+ existing federal and state rules and guidance concerning school bus transportation of elementary and secondary school students engaging in home-to-school transport or other transport as a routine part of kindergarten through grade 12 education, any correlation between public or private school bus fleet operators whose vehicles are involved in an accident and specified failures or violations, a regulatory framework comparison of public and private school bus operations, and recommendations on best practices for safe school bus transportation. (Sec. 32611) Drug Free Commercial Driver Act of 2015
+
+Revises the requirement that motor carriers conduct preemployment, reasonable suspicion, random, and post-accident testing of commercial motor vehicle operators for controlled substances or alcohol.
+
+Allows motor carriers to use hair testing as an acceptable alternative to mandatory urinalysis for detecting use of controlled substances by an operator, but only for preemployment testing and random testing (and the latter only if the motor carrier tested the operator at preemployment using the same method).
+
+Requires DOT to develop requirements for laboratories and testing procedures for controlled substances that include mandatory guidelines that establish, among other things, laboratory protocols and cut-off levels for hair testing to detect the use of such a substance.
+
+Directs the Department of Health and Human Services to issue scientific and technical guidelines for hair testing as a method for detecting the use of controlled substances.
+
+TITLE XXXIII--HAZARDOUS MATERIALS
+
+(Sec. 33101) Directs DOT to exempt from the requirement to obtain a hazardous material (hazmat) endorsement all class A commercial driver's license holders who are custom harvesters, agricultural retailers, agricultural business employees, agricultural cooperative employees, or agricultural producers who operate a service vehicle with a fuel tank containing 3,785 liters (1,000) gallons or less of diesel fuel if the tank is clearly marked with a placard reading "Diesel Fuel."
+
+(Sec. 33102) Changes the mandatory biennial DOT report to specified congressional committees on hazmat transportation to a mandatory biennial report posted on the DOT website.
+
+(Sec. 33103) Directs DOT to revise the form for reporting a rail equipment accident or incident to require additional data concerning rail cars carrying crude oil or ethanol involved in a reportable rail equipment accident or incident.
+
+Requires the DOT Inspector General to evaluate:
+
+ the accuracy of information in the Incident Reports Database; and the consistency and accuracy of data involving accidents or incidents reportable to both the Pipeline and Hazardous Materials Safety Administration and the Federal Railroad Administration, including whether the Incident Reports Database uses a searchable identifier. (Sec. 33104) Revises requirements for the safe hazmat transportation.
+
+Authorizes DOT to prescribe standards for the safe movement of hazmat into, from, and within a federally declared disaster area or a national emergency.
+
+(Sec. 33105) Authorizes appropriations to DOT for regulation of hazmat transportation for FY2016-FY2021.
+
+Authorizes DOT to make certain expenditures from the Hazardous Materials Emergency Preparedness Fund, in particular for hazmat training grants.
+
+TITLE XXXIV--HIGHWAY AND MOTOR VEHICLE SAFETY
+
+Subtitle A--Highway Traffic Safety
+
+PART I--Highway Safety
+
+(Sec. 34101) Authorizes appropriations from the Highway Trust Fund (HTF) (other than the Mass Transit Account) for FY2016-FY2021 for National Highway Traffic Safety Administration (NHTSA) safety programs, including:
+
+ the highway safety research and development program, national priority safety programs, the National Driver Register, the High Visibility Enforcement Program, and NHTSA administrative expenses. (Sec. 34102) Authorizes a state to provide highway safety and national priority safety program funds to state political subdivisions, including Indian tribal governments.
+
+Reduces from 60 to 45 the number of days during which DOT must review and approve state highway safety plans it has received.
+
+(Sec. 34103) Revises requirements for impaired driving countermeasures incentive grants.
+
+Requires DOT to award separate grants to each state that:
+
+ adopts and is enforcing a law that requires all individuals convicted of driving under the influence of alcohol or driving while intoxicated to receive a restriction on driving privileges, and provides a 24-7 sobriety program. Prescribes funding requirements.
+
+(Sec. 34104) Adds a 24-7 sobriety program to criteria for state repeat offender laws.
+
+(Sec. 34105) Directs DOT to report to Congress on NTHSA progress toward reviewing and implementing recommendations made in a GAO report on the National Roadside Survey of alcohol and drug use by drivers.
+
+(Sec. 34106) Directs NTHSA to identify and carry out additional actions it should undertake to assist state efforts to increase public awareness of the dangers of drug-impaired driving, including the dangers of driving while under the influence of heroin or prescription opioids.
+
+(Sec. 34107) Directs DOT to revise the NTHSA crash investigation data collection system to include certain data about vehicle crashes whenever a child restraint system was in use in a vehicle involved in a crash.
+
+PART II--Stop Motorcycle Checkpoint Funding Act
+
+Stop Motorcycle Checkpoint Funding Act
+
+(Sec. 34122) Prohibits DOT from providing grants or funds to a state, county, town, or township, Indian tribe, municipal, or other local government for use in any program to check helmet usage or create checkpoints for motorcycle drivers or passengers.
+
+PART II--Improving Driver Safety Act of 2015
+
+Improving Driver Safety Act of 2015
+
+(Sec. 34132) Revises distracted driving incentive grant program eligibility requirements to require DOT to award such grants to states that:
+
+ include distracted driving issues as part of their driver's license examination, do not make an exception that allows a driver to use a personal wireless communications device for texting while stopped in traffic, and prohibits the use of such a device for drivers with a learner's permit or intermediate license. Authorizes DOT to use up to 50% of amounts available for grants to states that:
+
+ in FY2017 certify that they have enacted a basic text messaging statute for drivers of all ages, make violation of the statute a primary offense or secondary enforcement action, and are otherwise ineligible for a grant; and in FY2018 meet the aforementioned requirements, impose fines for violations, and have a statute that prohibits a driver younger than 18 from using a personal wireless communications device while driving. Authorizes states to use grant funds for:
+
+ enforcement of distracted driving laws, and highway safety program projects. (Sec. 34133) Directs NHTSA to report to Congress on any legal and technical barriers to capturing data on the prevalence of the use of wireless communications devices while driving, including recommendations on how to address those barriers.
+
+(Sec. 34134) Revises criteria for state graduated driver licensing incentive grants.
+
+PART IV--Technical and Conforming Amendments
+
+(Sec. 34141) Makes technical corrections to the Motor Vehicle and Highway Safety Improvement Act of 2012.
+
+Subtitle B--Vehicle Safety
+
+(Sec. 34201) Authorizes appropriations for FY2016-FY2021 to DOT for motor vehicle and driver programs. Authorizes additional appropriations to DOT for that period if it certifies to Congress that NHTSA has implemented all the recommendations in the Office of Inspector General Audit Report issued June 18, 2015 (ST-2015-063).
+
+(Sec. 34202) Directs the DOT Inspector General to report to Congress on whether and what progress has been made to implement such recommendations.
+
+(Sec. 34203) Directs DOT to implement current information technology, web design trends, and best practices to ensure that motor vehicle safety recall information is readily accessible to the public on the federal website.
+
+Directs GAO to study the current use of safety recall information by consumers, dealers, and manufacturers, including the usability and content of the federal and manufacturers' websites and NHTSA efforts to publicize and educate consumers about safety recall information.
+
+Directs DOT to:
+
+ make available to the public on the internet detailed guidance for consumers submitting motor vehicle safety complaints; and study the feasibility of searching multiple vehicle identification numbers at a time to retrieve motor vehicle safety recall information, and of making that search mechanism publicly available. (Sec. 34204) Directs DOT to prescribe a final rule revising federal regulations for motor vehicle manufacturer notifications to vehicle owners of motor vehicle or equipment safety defects or noncompliance with federal motor vehicle safety standards in order to permit notification by electronic means.
+
+Directs DOT periodically to analyze vehicle safety recall completion rates to assess potential actions by NHTSA to improve them.
+
+Requires the DOT Inspector General to audit NHTSA's management of vehicle safety recalls.
+
+(Sec. 34205) Directs DOT to implement a two-year pilot grant program to evaluate the feasibility and effectiveness of a state process for informing consumers of open motor vehicle recalls at the time of motor vehicle registration.
+
+(Sec. 34206) Declares that a manufacturer's filing of a petition in bankruptcy under chapter 7 (Liquidation) of the federal bankruptcy code does not negate the manufacturer's duty to comply with specified prohibitions and requirements for the manufacturing, selling, and importing of motor vehicles and equipment.
+
+(Sec. 34207) Revises the requirement that a manufacturer pay fair reimbursement to a dealer providing a remedy without charge to defective or noncompliant motor vehicles or equipment to subject it to the double condition that:
+
+ the dealer notify the vehicle owner of any open recall at the time the remedy is provided; and the notification requirement be specified in a franchise, operating, or other agreement between the dealer and the manufacturer. Defines "open recall" to mean a recall for which a notification by a manufacturer has been provided and the defect or noncompliance has not been remedied.
+
+(Sec. 34208) Increases from 60 to 180 the number of days within which a tire owner or purchaser must present a defective or noncompliant tire to the manufacturer for remedy after:
+
+ receiving the notice of defect or noncompliance; or receiving notice that a replacement tire is available, if the manufacturer decides to replace the tire. (Sec. 34209) Raechel and Jacqueline Houck Safe Rental Car Act of 2015
+
+Authorizes a rental company that receives a notification (approved by NHTSA) from the manufacturer of a covered rental vehicle about any equipment defect, or noncompliance with federal motor vehicle safety standards, to rent or sell the vehicle or equipment only if the defect or noncompliance is remedied.
+
+Specifies any rental vehicle:
+
+ rated at 10,000 pounds gross vehicle weight or less, rented without a driver for an initial term of under 4 months, and that is part of a motor vehicle fleet of 5 or more motor vehicles used for rental purposes by a rental company. Prescribes a special rule to require rental companies to comply with specified limitations on sale, lease, or rental of a motor vehicle as soon as practicable, but within 24 hours after the earliest receipt of the manufacturer's notification of a defect or noncompliance with vehicle safety standards, whether by electronic means or first class mail. Extends the 24-hour deadline for complying with such limitations to 48 hours if the notification covers more than 5,000 motor vehicles in the rental company's fleet.
+
+Permits a rental company to rent (but not sell or lease) a motor vehicle subject to recall if the defect or noncompliance remedy is not immediately available and the company takes any actions specified in the notice to alter the vehicle temporarily to eliminate the safety risk posed.
+
+Makes these special rules for rental companies inapplicable to junk automobiles.
+
+Prohibits a rental company from knowingly making inoperable any safety devices or elements of design installed on or in a compliant motor vehicle or vehicle equipment unless the company reasonably believes the vehicle or equipment will not be used when the devices or elements are inoperable.
+
+Authorizes DOT, upon request, to inspect records of a rental company with respect to a safety investigation. Authorizes DOT to require a rental company to keep records or make reports for purposes of compliance with federal motor vehicle safety orders or regulations.
+
+Authorizes DOT to study the effectiveness of the amendments made by this Act and of other activities of rental companies.
+
+Amends MAP-21 to require the mandatory study of the safety of rental trucks during a specified seven-year period to evaluate the completion of safety recall remedies on rental trucks.
+
+Directs DOT to solicit comments regarding the implementation of this Act from members of the public, including rental companies, consumer organizations, automobile manufacturers, and automobile dealers.
+
+Declares that nothing in this Act shall:
+
+ be construed to create or increase any liability for a manufacturer who manufactures or imports a motor vehicle that is subject to defect or noncompliance recall requirements; or supersede or otherwise affect the contractual obligations, if any, between such manufacturer and a rental company. (Sec. 34210) Increases from $5,000 to $21,000 for each violation, and from $35,000 to $105 million for a related series of violations, the maximum civil penalties for violations of federal motor vehicle safety requirements. (Sec. 34211) Authorizes a state, without DOT approval, to allow electronic written disclosures or notices and related matters with respect to odometer disclosures required when ownership of a motor vehicle is transferred, provided certain requirements are met.
+
+(Sec. 34212) Requires DOT (which, currently, is merely authorized) to issue a final rule requiring the senior official responsible for safety in a company to certify certain information submitted in response to a request for information in a NHTSA safety defect or compliance investigation.
+
+(Sec. 32213) Directs DOT to issue a report on the feasibility of a technical system that would operate in each new motor vehicle to indicate when it is subject to an open recall.
+
+(Sec. 34214) Amends MAP-21 to require DOT (which, currently, is merely authorized) to initiate research into effective ways to minimize the risk of hyperthermia or hypothermia to children or other unattended passengers in rear seating positions.
+
+(Sec. 34215) Directs DOT to propose a rule updating standards for the installation of tire pressure monitoring systems in new motor vehicles to ensure that they cannot be overridden, reset, or recalibrated to a level other than a safe pressure level.
+
+Subtitle C--Research and Development and Vehicle Electronics
+
+ (Sec. 34301) Directs DOT to report to Congress regarding operations of the Council for Vehicle Electronics, Vehicle Software, and Emerging Technologies.
+
+(Sec. 34302) Authorizes DOT, in conducting motor vehicle safety research and development, to enter, in coordination with the Department of State, into cooperative agreements and collaborative research and development agreements with foreign governments.
+
+Subtitle D--Miscellaneous Provisions
+
+PART I--Driver Privacy Act of 2015
+
+ Driver Privacy Act of 2015
+
+(Sec. 34402) Declares that any data in an event data recorder required to be installed in a passenger motor vehicle (as provided for under DOT regulations concerning the collection, storage, and retrievability of onboard motor vehicle crash event data) is the property of the owner or lessee of the vehicle in which the recorder is installed, regardless of when the vehicle was manufactured.
+
+Prohibits a person, other than the owner or lessee of the motor vehicle, from accessing data recorded or transmitted by such a recorder unless:
+
+ a court or other judicial or administrative authority authorizes the retrieval of such data subject to admissibility of evidence standards; an owner or lessee consents to such retrieval for any purpose, including vehicle diagnosis, service, or repair; the data is retrieved pursuant to certain authorized investigations or inspections of the National Transportation Safety Board or DOT; the data is retrieved to determine the appropriate emergency medical response to a motor vehicle crash; or the data is retrieved for traffic safety research, and the owner's or lessee's personally identifiable information and the vehicle identification number are not disclosed. (Sec. 34403) Directs NHTSA, after completing a study and submitting a report to Congress, to promulgate regulations concerning the amount of time event data recorders installed in passenger motor vehicles may capture and record vehicle-related data to provide accident investigators with pertinent crash-related information.
+
+PART II--Safety Through Informed Consumers Act of 2015
+
+Safety Through Informed Consumers Act of 2015
+
+ (Sec. 34422) Revises passenger motor vehicle information program requirements.
+
+Directs DOT to promulgate a rule to ensure that passenger motor vehicle crash avoidance information is indicated next to crashworthiness information on stickers placed on motor vehicles by their manufacturers.
+
+PART III--Tire Efficiency, Safety, and Registration Act of 2015
+
+Tire Efficiency, Safety, and Registration Act of 2015 or the TESR Act
+
+ (Sec. 34432) Requires DOT to promulgate regulations for:
+
+ tire fuel efficiency minimum performance standards, and tire wet traction minimum performance standards. (Sec. 34433) Directs DOT to initiate a rulemaking to require independent distributors or dealers of tires to maintain records containing certain information on sales of tires.
+
+(Sec. 34434) Directs DOT to establish a publicly available electronic tire recall database.
+
+TITLE XXXV--RAILROAD REFORM, ENHANCEMENT, AND EFFICIENCY
+
+Railroad Reform, Enhancement, and Efficiency Act
+
+(Sec. 35002) Revises definitions related to the National Railroad Passenger Corporation (Amtrak).
+
+Delineates the Northeast Corridor main line as between Boston, Massachusetts, and the Virginia Avenue interlocking in the District of Columbia, and the facilities and services used to operate and maintain that line.
+
+Subtitle A--Authorization of Appropriations
+
+(Sec. 35101) Authorizes appropriations to DOT for FY2016-FY2019 for grants to Amtrak for:
+
+ national infrastructure and safety investments, a Northeast Corridor investment account, a state-supported account (for intercity rail services and routes not included in the national rail passenger transportation system), a long-distance account, an other national network activities account, and intercity passenger rail service capital investments. (Sec. 35103) Authorizes FY2016-FY2019 appropriations to:
+
+ National Transportation Safety Board for railroad accident investigations; and the Amtrak Office of the Inspector General. (Sec. 35105) Requires the rail cooperative research program to include research to improve the overall safety of intercity passenger and freight rail operations.
+
+Allocates $5 million (as under current law) for any fiscal year beyond FY2013 for railroad research and development programs.
+
+ Subtitle B--Amtrak Reform
+
+(Sec. 35201) Directs Amtrak to establish internal controls to ensure its costs, revenues, and other compensation are allocated to its Northeast Corridor train services or infrastructure, its state-supported routes, its long-distance routes, and its other national network activities.
+
+Directs DOT to establish substantive and procedural requirements for Northeast Corridor, state-supported, long-distance, and other national network investment capital grant requests.
+
+Directs Amtrak to establish:
+
+ a Northeast Corridor investment account for capital improvement projects, and a state-supported account, a long-distance account, and an other national network activities account for Amtrak capital expenses and operating costs. (Sec. 35202) Directs Amtrak to submit to Congress and DOT:
+
+ final five-year business line plans for Northeast Corridor train services, Amtrak-operated state-supported routes and long-distance routes, and Amtrak ancillary services; and five-year asset plans for Amtrak infrastructure and equipment. (Sec. 35203) Directs DOT to establish the State-Supported Route Committee to promote mutual cooperation and planning pertaining to the rail operations of Amtrak and related activities of trains operated by Amtrak on state-supported routes.
+
+Requires Amtrak to provide to each state that sponsors a state-supported route a monthly invoice of the cost of operating it, including fixed costs and third-party costs.
+
+(Sec. 35204) Amends the Passenger Rail Investment and Improvement Act of 2008 to revise requirements with respect to methodologies for Amtrak route and service planning decisions an independent entity obtained by Amtrak must develop and recommend for Amtrak to use in the planning of intercity rail passenger transportation routes and services. Requires Amtrak to obtain the services of such an independent entity as a condition of receiving a grant.
+
+(Sec. 35205) Revises alternate passenger rail service pilot program requirements.
+
+Directs DOT to promulgate a rule to implement a pilot program for competitive selection of rail carriers meeting specified criteria to provide intercity rail passenger transportation over a long-distance route in lieu of Amtrak for an operations period of four years (renewable twice).
+
+Requires the Surface Transportation Board, if there is a dispute between Amtrak and a rail carrier awarded the right to provide rail service over a route in which Amtrak is to grant access to its reservation system, stations, and facilities, to issue an order requiring Amtrak to provide such facilities and services to those carriers if certain requirements are met.
+
+(Sec. 35206) Requires Amtrak, before entering into contracts exceeding $100 million to procure rolling stock, to submit to DOT and Congress a business case analysis on the utility of such procurements.
+
+(Sec. 35207) Directs Amtrak to develop a plan to eliminate the operating loss for food and beverage service on board its trains.
+
+Bars the use of federal funds, beginning four years after enactment of this Act, to cover any such loss on a route operated either by Amtrak or by an alternative passenger rail service provider in lieu of Amtrak.
+
+(Sec. 35208) Directs Amtrak to establish a pilot program for a state or states that sponsor a state-supported route operated by Amtrak to facilitate:
+
+ onboard purchase and sale of local food and beverage products, and partnerships with local entities to hold promotional events on trains or in stations. (Sec. 35209) Directs Amtrak to request proposals from qualified persons or entities to utilize right-of-way and real estate owned by Amtrak for telecommunications systems, energy distribution systems, and other appropriate activities. Authorizes Amtrak to enter into an agreement to implement any such proposal or proposals.
+
+(Sec. 35210) Requires Amtrak to report to Congress on options to enhance economic development and accessibility of and around Amtrak stations and terminals.
+
+Directs Amtrak to request proposals from qualified persons, including small business concerns owned and controlled by socially and economically disadvantaged individuals and veteran-owned small businesses, to lead, participate, or partner with Amtrak, a station owner, and other entities in enhancing economic development in and around such stations and terminals using these options.
+
+(Sec. 35211) Amends the Passenger Rail Investment and Improvement Act of 2008 to extend indefinitely specified authority to restructure long-term Amtrak debt and capital leases. Limits any such restructuring to the extent provided in advance in appropriations Acts.
+
+Prohibits Amtrak from incurring more debt after the enactment of this Act without the express advance approval of DOT (as under current law), unless that debt receives credit assistance (including direct loans and loan guarantees) under the Railroad Revitalization and Regulatory Act of 1976.
+
+(Sec. 35212) Directs Amtrak to:
+
+ develop a pilot program to allow passengers to transport domesticated cats or dogs on certain Amtrak trains, and collect fees for each cat or dog (except service animals) transported by a ticketed passenger. Bars the use of federal funds to implement this program.
+
+(Sec. 3513) Revises requirements for the composition and terms of members of the Amtrak Board of Directors. Specifies the regions each of the seven additional members must come from.
+
+(Sec. 35214) Directs the Amtrak Inspector General to:
+
+ evaluate Amtrak's boarding procedures for passengers, including those using or transporting nonmotorized transportation, such as wheelchairs and bicycles, at its 15 stations through which the most people pass; and make certain comparisons and recommendations to improve such procedures. Subtitle C--Intercity Passenger Rail Policy
+
+(Sec. 35301) Directs DOT to develop a program for issuing three-year competitive operating assistance grants to a state (or group of states), an Interstate Compact, a public agency responsible for intercity rail passenger transportation or commuter rail passenger transportation, a state political subdivision, Amtrak, or a rail carrier to initiate, restore, or enhance intercity rail passenger service.
+
+Requires a grant applicant to submit to DOT:
+
+ a capital and mobilization plan, and an operating plan. (Sec. 35302) Directs DOT to develop a federal-state partnership program for issuing competitive grants to the aforementioned entities for capital projects to replace, rehabilitate, or repair major infrastructure assets for providing intercity passenger rail service.
+
+Makes eligible for a grant any projects that are on:
+
+ a state rail plan, or the Northeast Corridor Capital Investment Plan. (Sec. 35303) Prescribes requirements for the award of large capital project grants in excess of $1 billion.
+
+(Sec. 35304) Directs DOT to study the availability and use of small businesses owned and controlled by socially and economically disadvantaged individuals and veteran-owned small businesses in publicly funded intercity passenger rail service projects.
+
+(Sec. 35305) Directs DOT to convene a working group to evaluate the restoration of intercity rail passenger service in the Gulf Coast region between New Orleans, Louisiana, and Orlando, Florida.
+
+(Sec. 35306) Directs DOT to convene a working group to review:
+
+ the potential operation of state-supported routes by rail passenger carriers other than Amtrak, and their role in establishing an integrated intercity passenger rail network in the United States. (Sec. 35307) Directs DOT to study:
+
+ the shared use of right-of-way by passenger and freight rail systems, and the operational, institutional, and legal structures that would best support improvements to both systems. (Sec. 35308) Revises the purpose of the Northeast Corridor Infrastructure and Operations Advisory Commission to require it to promote mutual cooperation and planning pertaining to rail infrastructure investments of the Northeast Corridor.
+
+Revises membership composition of the Commission to include individuals from the Office of the Secretary of Transportation and the Federal Transit Administration.
+
+Requires the Commission to update periodically its statement of goals concerning the future of Northeast Corridor rail infrastructure and operations and to submit it to Congress, along with with annual performance reports and recommendations for improvements for commuter, intercity, and freight rail transportation along the Corridor, as well as a Northeast Corridor capital investment plan.
+
+Directs the Commission to develop:
+
+ a capital investment plan for the Northeast Corridor main line between Boston, Massachusetts, and the Virginia Avenue interlocking in the District of Columbia, and the Northeast Corridor branch lines connecting to Harrisburg, Pennsylvania, Springfield, Massachusetts, and Spuyten Duyvil, New York; and a Northeast Corridor service development plan, updated at least once every 10 years. Requires Amtrak and each state and public transportation entity that owns infrastructure providing intercity rail passenger transportation on the Northeast Corridor to develop, and update as necessary, a Northeast Corridor asset management plan.
+
+(Sec. 35309) Directs the Commission to study the feasibility of and options for permitting through-ticketing between Amtrak service and commuter rail services on the Northeast Corridor.
+
+Directs DOT, in cooperation with the Commission, Amtrak, and commuter rail transportation authorities on the Northeast Corridor, to study the potential benefits of joint procurement by Amtrak and those authorities of common materials, assets, and equipment when spending federal funds.
+
+(Sec. 35310) Directs DOT to conduct a data needs assessment to support development of an intercity passenger rail network.
+
+(Sec. 35311) Requires DOT to:
+
+ issue a request for proposals meeting certain performance standards for the financing and construction of intercity passenger rail systems along specified Corridors, and establish a commission for each corridor with one or more proposals that satisfy specified requirements to review and report on the proposals. Requires DOT then to select any proposal that provides substantial benefits to the public and the national transportation system, is cost-effective, offers significant advantages over existing services, and meets other relevant factors.
+
+(Sec. 35312) Grants the Amtrak Inspector General authority to investigate alleged violations to defraud the United States.
+
+Directs the Inspector General to initiate an assessment of whether Amtrak's current expenditures or procurements use competitive, market-driven provisions to fulfill the Americans with Disabilities Act of 1990.
+
+Subtitle D--Rail Safety
+
+PART I--Safety Improvement
+
+(Sec. 35401) Directs DOT to develop and distribute to each state a model state-specific highway-rail grade crossing action plan that includes:
+
+ methodologies for identifying and evaluating highway-rail grade crossing safety risks, and best practices to reduce the risk of highway-rail grade crossing accidents or incidents and to alleviate crossing blockage due to idling trains. Directs DOT to promulgate a rule to require each state to develop and implement a state highway-rail grade crossing action plan that identifies:
+
+ highway-rail grade crossings that have experienced recent highway-rail grade crossing accidents or incidents, or are at high risk for accidents or incidents; and specific strategies for improving safety at highway-rail grade crossings, including highway-rail grade crossing closures or grade separations. (Sec. 35402) Requires each rail passenger carrier to submit to DOT, for approval, a speed limit action plan that:
+
+ identifies each main track location where there is a reduction of more than 20 miles per hour from the approach speed to a curve or bridge and the maximum operating speed for passenger trains at that curve or bridge, and describes appropriate actions taken to enable warning and enforcement of maximum speed for passenger trains at such locations. Authorizes DOT to exempt from such requirements each segment of track governed by a positive train control system or other safety technology that would achieve equivalent or greater level of safety in reducing derailment risk.
+
+(Sec. 35403) Directs DOT to promulgate regulations to require each railroad carrier providing intercity or commuter rail passenger transportation to install signs to warn train crews before the train approaches a location identified as having a high risk of overspeed derailment.
+
+Authorizes DOT to exempt from such requirements each segment of track governed by a positive train control system or other safety technology that would achieve equivalent or greater level of safety in reducing derailment risk.
+
+(Sec. 35404) Directs DOT to promulgate a rule to require a working alerter in the controlling locomotive of each intercity or commuter rail passenger train.
+
+Declares that DOT may require or allow a technology or practice in lieu of a working alerter if it would achieve an equivalent or greater level of safety in enhancing locomotive control.
+
+(Sec. 35405) Directs DOT to promulgate regulations to require on-track safety regulations to include implementation of redundant signal protection, such as shunting or other practices and technologies, for maintenance-of-way work crews who depend on a train dispatcher to provide signal protection.
+
+(Sec. 35406) Revises requirements for technology implementation plans under the railroad safety risk reduction program.
+
+Directs DOT to ensure that each railroad carrier required to submit a technology implementation plan, until its implementation of a positive train control system, to prioritize technologies and practices to mitigate the risk of overspeed derailments.
+
+(Sec. 35407) Directs DOT to evaluate track inspection regulations to determine if a railroad carrier providing commuter rail passenger transportation on high density commuter railroad lines should be required to inspect the lines in the same manner as currently required for other commuter railroad lines.
+
+Requires DOT, if it is necessary to promulgate a rule, to consider the following regulatory requirements for high density commuter railroad lines:
+
+ at least once every two weeks traverse each main line by vehicle or inspect each main line on foot; and at least once each month, traverse and inspect each siding by vehicle or by foot. (Sec. 35408) Directs DOT to study whether limitations or weaknesses exist in the emergency response information carried by train crews transporting hazardous materials.
+
+(Sec. 35409) Directs DOT to study private highway-rail grade crossings.
+
+(Sec. 35410) Grants DOT authority to receive and expend cash, or receive and utilize spare parts and similar items, from non-government sources to repair and replace damaged government-owned automated track inspection cars and equipment as a result of damage caused by third-parties.
+
+(Sec. 35411) Prescribes requirements regarding railroad police officers commissioned in one state and transferred to another state.
+
+(Sec. 35412) Directs the Federal Railroad Administration (FRA) to report quarterly to Congress on Metro-North Commuter Railroad progress in implementing FRA directives and recommendations issued in its March 2014 report to Congress titled "Operation Deep Dive Metro-North Commuter Railroad Safety Assessment."
+
+(Sec. 35413) Directs DOT, in cooperation with the National Transportation Safety Board and Amtrak, to conduct a post-accident assessment of the Amtrak Northeast Regional Train #188 crash on May 12, 2015.
+
+(Sec. 35415) Directs GAO to evaluate the effectiveness of FRA's final rule on the use of locomotive horns at highway-rail grade crossings.
+
+(Sec. 35416) Amends the Rail Safety Improvement Act of 2008 to require the FRA to maintain, and provide upon request to appropriate state and local government transportation officials, copies of the most recent bridge inspection reports by track owners.
+
+PART II--Consolidated Rail Infrastructure and Safety Improvements
+
+(Sec. 35421) Authorizes DOT to make grants to a state, a group of states, an Interstate Compact, a public agency providing intercity rail passenger, commuter rail passenger, or freight rail transportation service, and other specified entities to assist in financing the cost of rail projects to improve the safety, efficiency, or reliability of passenger and freight rail transportation systems.
+
+Authorizes DOT to establish performance measures for grant recipients to assess progress in achieving certain strategic goals and objectives.
+
+Makes at least 25% of appropriations for such grants available for projects in rural areas.
+
+PART III--Hazardous Materials by Rail Safety and Other Safety Enhancements
+
+(Sec. 35431) Directs DOT to promulgate regulations to:
+
+ require Class I railroads transporting hazardous materials (hazmat) to generate accurate, real-time, and electronic train consist information; and enter into a memorandum of understanding with fusion centers to provide them with secure and confidential access to such information for each train transporting hazmat. (Sec. 35432) Directs DOT to promulgate regulations to require each new tank car to meet the DOT-117 specification and each non-jacketed tank car modified to meet the DOT-117R specification to:
+
+ be equipped with a thermal insulating blanket (applied between the outer surface of a tank car tank meeting certain thermal conductivity criteria); or have sufficient thermal resistance so that there will be no release of any lading within the tank car, except release through the pressure relief device, when subjected to a pool fire for 200 minutes and a torch fire for 30 minutes. (Sec. 35433) Directs DOT to issue a notice of proposed rulemaking to require each railroad carrier transporting a Class 3 flammable liquid to maintain a comprehensive oil spill response plan.
+
+(Sec. 35434) Directs DOT to initiate a study on the levels and structure of insurance for a railroad carrier transporting hazmat.
+
+(Sec. 35435) Directs GAO to complete an independent evaluation of electronically-controlled pneumatic (ECP) brake systems.
+
+Directs DOT to enter into an agreement with the National Cooperative Rail Research Program Board to complete testing of ECP brake systems during emergency braking.
+
+Directs DOT to complete a regulatory impact analysis of the effects of the applicable ECP brake system requirements, incorporating the evaluation and testing results, and if such requirements exceed their costs, determine whether they are justified.
+
+(Sec. 35436) Directs DOT to promulgate regulations to require each carrier providing intercity or commuter rail passenger transportation to install inward-and-outward-facing audio- and image-recording devices in all controlling locomotive cabs and cab car operating compartments in such passenger trains.
+
+(Sec. 35437) Increases from $200 million to $295 million, inflation-adjusted every 5 years, the aggregate allowable awards to all rail passengers, against all defendants, for all claims, including claims for punitive damages, arising from a single rail accident or incident.
+
+(Sec. 35438) Directs DOT to implement a reporting requirement to monitor industry-wide progress toward modifying tank cars used in high-hazard flammable train service by the applicable deadlines or authorization end dates set in regulation.
+
+Directs DOT to collect data from shippers and tank car owners (including tank car facilities) on the total number of tank cars built or modified to meet the DOT-117 and DOT-117R specifications, as well as the total number of tank cars used in high-hazard flammable train service that have not been modified.
+
+(Sec. 35439) Directs the Department of Energy (DOE), within 180 days after the research completion of the comprehensive Crude Oil Characteristics Research Sampling, Analysis, and Experiment (SAE) plan study at Sandia National Laboratories, in cooperation with DOT, to report to Congress:
+
+ the results of the SAE plan study, and recommendations for regulations that should be prescribed by DOT or DOE as well as statutes enacted by Congress to improve the safe transport of crude oil. PART IV--Positive Train Control
+
+(Sec. 35441) Directs DOT, in coordination with the Federal Communications Commission (FCC), to assess spectrum needs and availability for implementing positive train control systems.
+
+(Sec. 35442) Revises positive train control (PTC) systems implementation requirements.
+
+Requires each Class I railroad carrier and entity providing regularly scheduled intercity or commuter rail passenger transportation to develop and submit to DOT its plan for implementing a positive train control (PTC) system by December 31, 2015, (currently, 2018) on certain of its tracks.
+
+Permits such a carrier or other entity to submit to DOT for approval an updated PTC implementation plan that includes an updated schedule and certain milestones or metrics that demonstrate that the railroad carrier or entity will implement a PTC system as soon as practicable, if the updated plan will not introduce operational challenges or risks to full, successful, and safe implementation.
+
+Authorizes DOT to assess civil penalties for violations of these requirements.
+
+(Sec. 35443) Exempts Class I railroad carriers or other entities with PTC systems that have been certified and implemented on its tracks from certain federal rail operating restrictions that would otherwise apply in the event of a PTC system component failure.
+
+Requires DOT to amend federal regulations relating to equipping locomotives for small Class II and Class III railroads operating in PTC territory to extend each deadline under the regulations by three years.
+
+(Sec. 35444) Directs DOT, after it certifies that each carrier and entity is in compliance with PTC requirements, to enter into an agreement with the National Cooperative Rail Research Board to study the possible effectiveness of PTC and related technologies on reducing collisions at highway-rail grade crossings.
+
+Subtitle E--Project Delivery
+
+Track, Railroad, and Infrastructure Network Act
+
+(Sec. 35502) Exempts improvements to, maintenance, rehabilitation, or operation of railroad or rail transit lines (but not stations) that are in use or were historically used for the transportation of goods or passengers from federal policies and requirements for the preservation of public park and recreation lands, wildlife and waterfowl refuges, and historic sites. Permits such activities without the necessity to: (1) demonstrate there is no feasible and prudent alternative to the use of such land, and (2) plan to minimize harm to a historic site.
+
+Requires DOT to take into consideration any avoidance, minimization, and mitigation or enhancement measures incorporated into a transportation program or project before finding that the program or project will have no adverse effect on an historic site, and as a result a de minimus impact on the site's preservation.
+
+(Sec. 35503) Requires DOT to apply specified environmental project development procedures to any rail project that requires its approval.
+
+Any DOT operating administration may apply any categorical exclusion under NEPA, a Record of Decision, a Finding of No Significant Impact, and associated evaluations, determinations, or findings demonstrating compliance with any environmental review or historic preservation law designated by another DOT operating administration.
+
+(Sec. 35504) Authorizes DOT to assist a recipient of federal rail program assistance in acquiring rights-of-ways and adjacent real property interests before or during the completion of the environmental reviews for any federally-assisted rail project that may use such property interests if certain conditions are met.
+
+(Sec. 35505) Directs DOT to submit to the Advisory Council on Historic Preservation, for its consideration, any proposed exemption of railroad rights-of-way from review for their effect on historic property.
+
+Subtitle F--Financing
+
+Railroad Infrastructure Financing Improvement Act
+
+(Sec. 35603) Amends the Railroad Revitalization and Regulatory Reform Act of 1976 to revise Railroad Rehabilitation and Improvement Financing program requirements.
+
+Directs DOT to make direct loans and loan guarantees to joint ventures that include, instead of at least one railroad, at least one railroad, state or local government, interstate compact, or government sponsored authority or corporation (entity).
+
+(Sec. 35604) Requires direct loans and loan guarantees also to be used to reimburse planning and design expenses relating to projects to acquire or rehabilitate intermodal or rail equipment or facilities or develop new intermodal or railroad facilities, as well as pre-construction costs.
+
+(Sec. 35605) Directs DOT to notify direct loan or loan guarantee applicants if their applications are incomplete, and within another 60 days approve or disapprove a resubmitted application.
+
+Directs DOT to post on its website a monthly report that includes certain terms and timetables information for each application.
+
+ Authorizes DOT to collect charges from each applicant, obligor, or loan party for certain costs additional to the evaluation of applications. The current formula cap on such a charge is repealed.
+
+(Sec. 35606) Revises the term for repayment of a direct loan or loan guarantee from a maximum of 35 years to a maximum of the lesser of:
+
+ 35 years after substantial completion of the project; or the estimated useful life of the rail equipment or facilities to be acquired, rehabilitated, improved, developed, or established. Authorizes DOT to allow an obligor, for up to one year beyond the regular duration of a direct loan, to add unpaid principal and interest to the outstanding balance if at any time after the date of substantial completion the project is unable to generate sufficient revenues to pay the scheduled loan repayments of principal and interest on a direct loan. Allows prepayments without penalty.
+
+Grants DOT authority to sell direct loans into the capital markets.
+
+(Sec. 35607) Repeals authority for cohorts of loans.
+
+Authorizes a direct loan or loan guarantee applicant to propose, and DOT may accept as collateral, as a basis for determining the amount of a credit risk premium any of the following in lieu of the value of any tangible asset:
+
+ the net present value of a future stream of state or local subsidy income or other dedicated revenues to secure the direct loan or loan guarantee; adequate coverage requirements to ensure repayment, on a non-recourse basis, from cash flows generated by the project or any other dedicated revenue source; or an investment-grade rating on the direct loan or loan guarantee. (Sec. 35608) Authorizes DOT, before issuing a direct loan or guarantee, to enter into a master credit agreement (to make one or more direct loans or loan guarantees at future dates for a program of related projects secured by a common security pledge) that is contingent on the satisfaction of all of the conditions for the provision of a direct loan or loan guarantee and other applicable requirements.
+
+(Sec. 35609) Requires DOT, in granting applications for such loans and guarantees, to give priority to projects:
+
+ for the installation of a positive train control, and that improve railroad stations and passenger facilities and increase transit-oriented development. DIVISION D--FREIGHT AND MAJOR PROJECTS
+
+TITLE XLI--FREIGHT POLICY
+
+(Sec. 41003) Directs DOT to establish a national multimodal freight network to:
+
+ assist states in strategically directing resources toward improved system performance for the efficient movement of freight on transportation networks, inform freight transportation planning, assist in the prioritization of federal investment, and assess and support federal investments to achieve specified national multimodal freight policy goals. Declares that the national multimodal freight network shall consist of all connectors, corridors, and facilities in all freight transportation modes most critical to the current and future movement of freight.
+
+Directs DOT to designate a primary freight system within one year after enactment of this Act, and redesignate it every five years.
+
+Authorizes a state to designate freight transportation infrastructure or facilities within the state borders as a critical rural freight corridor if the road or facility is a rural principal arterial roadway or facility providing access or service to energy exploration, development, installation, or production areas, and meets certain other requirements.
+
+TITLE XLII--PLANNING
+
+(Sec. 42001) Directs DOT to develop, update every five years, and post on its website a national freight strategic plan.
+
+(Sec. 42002) Requires each state to establish a freight advisory committee.
+
+(Sec. 42003) Requires each state to develop, and update every five years, a freight investment plan.
+
+(Sec. 42004) Directs DOT to develop transportation investment data and planning tools to support an outcome-oriented, performance-based approach for proposed freight-related and other transportation projects.
+
+TITLE XLIII--FORMULA FREIGHT PROGRAM
+
+(Sec. 43001) Revises national freight program requirements.
+
+Renames the national freight network as the national highway freight network.
+
+Authorizes each state to increase the number of miles designated as part of the primary highway freight system in that state by up to 10% of the miles already designated if the additional miles meet certain criteria.
+
+Authorizes the representative MPO in an urbanized area with a population of 500,000 or more to designate a public road within the borders of that area of the state as a critical urban freight corridor. Authorizes a state to do the same for an urbanized area with a population under 500,000.
+
+Prescribes requirements for the use of apportioned funds, including development of intelligent freight transportation systems. Defines "intelligent freight transportation system" to mean:
+
+ an innovative or intelligent technological transportation system, infrastructure, or facilities; and a communications or information processing system used singly or in combination for dedicated intelligent freight lanes that improve the efficiency or safety of freight on the federal-aid highway system. Directs FHWA to determine the need for establishing operating standards for such systems.
+
+Requires states that have not met or made progress toward meeting certain performance targets related to freight movement of the state to submit biennially to FHWA a freight performance improvement plan.
+
+Directs the FHWA to report to Congress:
+
+ a study of freight projects identified in state freight plans, and an evaluation of multimodal freight projects included in such plans. TITLE XLIV--GRANTS
+
+(Sec. 44002) Directs FHWA to establish a competitive grant program for major, critical high-cost surface transportation infrastructure projects.
+
+Directs DOT to establish a competitive grant program of assistance for capital investments in major freight transportation infrastructure projects.
+
+Authorizes appropriations for FY2016-FY2021.
+
+DIVISION E--FINANCE
+
+Transportation Funding Act of 2015
+
+TITLE LI--HIGHWAY TRUST FUND AND RELATED TAXES
+
+Subtitle A--Extension of Trust Fund Expenditure Authority and Related Taxes
+
+(Sec. 51101) Amends the Internal Revenue Code to extend until October 1, 2021, the authority for expenditures from: (1) the Highway and Mass Transit Accounts of the Highway Trust Fund, (2) the Sport Fish Restoration and Boating Trust Fund, and (3) the Leaking Underground Storage Tank Trust Fund.
+
+(Sec. 51102) Extends through FY2023 the increased excise tax rates on motor fuels and petroleum products for funding the Highway Trust Fund.
+
+Subtitle B--Additional Transfers to Highway Trust Fund
+
+(Sec. 51201) Appropriates additional funds to the Highway and Mass Transit Accounts of the Highway Trust Fund.
+
+(Sec. 51202) Authorizes the transfer to the Highway Trust Fund of civil penalties related to motor vehicle safety.
+
+(Sec. 51203) Appropriates additional funds from the Leaking Underground Storage Tank Trust Fund to the Highway Account of the Highway Trust Fund.
+
+TITLE LII--OFFSETS
+
+Subtitle A--Tax Provisions
+
+(Sec. 52101) Amends the Internal Revenue Code to require that: (1) the value of the basis in any property acquired from a decedent be consistent with the basis as determined for estate tax purposes; and (2) executors of estates disclose to the Department of the Treasury and to recipients of any interest in an estate information identifying the value of each interest received.
+
+(Sec. 52102) Authorizes the Department of State to: (1) deny, revoke, or limit a passport to any individual upon receiving certification from Treasury that such individual has a seriously delinquent tax debt in excess of $50,000; and (2) deny the issuance of a passport for which no social security number is provided or for which an incorrect or invalid number is provided.
+
+(Sec. 52103) Makes the six-year limitation on assessments of additional tax applicable to understatements of gross income due to an overstatement of unrecovered costs or other basis.
+
+(Sec. 52014) Requires tax information returns reporting mortgage interest received in a trade or business to include: (1) the outstanding principal on the mortgage, (2) the address of the property that secures the mortgage, and (3) the date of the origination of such mortgage.
+
+(Sec. 52105) Modifies tax return due dates for partnerships, S corporations, and C corporations. Extends from three to six months the automatic extension for corporate income tax returns.
+
+(Sec. 52106) Requires Treasury to enter into qualified tax collection contracts to collect all outstanding inactive tax receivables, with specified exceptions, and to report to Congress on such contracts. Allows taxpayers affected by a federally-declared disaster to request relief from immediate collection measures by contractors.
+
+(Sec. 52107) Requires Treasury to establish an account for carrying out a program for hiring, training, and employing IRS special compliance personnel who collect taxes using an automated collection system or an equivalent replacement system.
+
+(Sec. 52108) Extends through 2025 the authority for transfers of excess pension assets of a defined benefit plan to a retiree health benefits account.
+
+Subtitle B--Fees and Receipts
+
+(Sec. 52201) Extends through FY2024 and FY2025 the authority for depositing fees imposed to provide civil aviation security services into the General Fund of the Treasury.
+
+(Sec. 52202) Directs Treasury to make annual cost-of-living adjustments to fees for certain customs services, beginning on October 1, 2015.
+
+ (Sec. 52203) Amends the Federal Reserve Act to limit dividend payments to stockholders of a federal reserve bank who have total consolidated assets of more than $1 billion.
+
+(Sec. 52204) Amends the Energy Policy and Conservation Act to direct the Department of Energy to draw down and sell from the Strategic Petroleum Reserve specified amounts of crude oil in FY2016-FY2025. Imposes limits on such authority, including a prohibition on drawdowns and sales that would result in less than 90 days of emergency reserves.
+
+(Sec. 52205) Amends the Housing and Community Development Act of 1992 to extend through FY2025 the fee that the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation must charge to guarantee timely payments of principal and interest on securities, notes, and other obligations backed by certain residential mortgages.
+
+Subtitle C--Outlays
+
+(Sec. 52301) Eliminates the payment of interest to lessees of oil and gas leases on overpayments of royalties.
+
+DIVISION F--MISCELLANEOUS
+
+TITLE LXI--FEDERAL PERMITTING IMPROVEMENT
+
+(Sec. 61001) Sets forth definitions of terms used in this title, including the definition of "covered project" as any construction activity that requires authorization or environmental review by a federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, or any other sector that: (1) is subject to the National Environmental Policy Act (NEPA), (2) is likely to require a total investment of more than $200 million, (3) does not qualify for abbreviated authorization or environmental review processes, and (4) would benefit from enhanced oversight and coordination due to its size and complexity.
+
+(Sec. 61002) Establishes the Federal Permitting Improvement Steering Council to be chaired by an Executive Director who is appointed by the President. Requires the Executive Director to establish an inventory of covered projects for which the environmental review or authorization of the head of any federal agency is pending.
+
+Requires: (1) the Council to issue annual recommendations on best practices for covered projects; and (2) agency chief environmental review and permitting officers to advise agency council members on matters related to environmental reviews and authorizations, provide technical support and recommendations, and provide training programs for agency staff that support and conduct environmental reviews or authorizations.
+
+Directs the Office of Management and Budget to designate a federal agency to provide support for the Executive Director to carry out duties required by this Act.
+
+(Sec. 61003) Requires a project sponsor of a covered project to submit to the Executive Director and the facilitating agency a notice of the initiation of a proposed covered project.
+
+Requires: (1) the Executive Director to maintain an online database to be known as the Permitting Dashboard to track the status of federal environmental reviews and authorizations for covered projects; (2) the facilitating or lead agency to establish a concise plan for coordinating public and agency participation in, and completion of, any required federal environmental review and authorization and a permitting timetable that includes intermediate and final completion dates for a covered project; (3) coordination of the federal environmental review and authorization process with state, local, or tribal agencies responsible for conducting any separate review or authorization process; and (4) early consultation with project sponsors to provide such sponsors with pertinent information about a covered project.
+
+(Sec. 61004) Grants the consent of Congress for three or more contiguous states to enter into an interstate compact establishing regional infrastructure development agencies to facilitate authorization and review of covered projects.
+
+(Sec. 61005) Requires each agency with principal responsibility for review and authorization of a covered project (lead agency) to: (1) carry out obligations concurrently and in conjunction with environmental reviews and authorizations conducted by other agencies; (2) incorporate state documents prepared for covered projects in documentation required to complete an environmental review; (3) determine, as early as practicable during the environmental review, the range of reasonable alternatives to be considered for a covered project; (4) establish a comment period of not less than 45 and not more than 60 days after the date of a notice in the Federal Register announcing the availability of an environmental impact statement; and (5) work cooperatively with each cooperating and participating agency to identify and resolve issues that could delay completion of an environmental review or an authorization required for a covered project.
+
+(Sec. 61006) Requires a federal agency that delegates authority to a state to issue or administer a permit program to initiate a national process to determine the applicability of best practices to the permitting process and to make model recommendations to state permitting programs.
+
+(Sec. 61007) Establishes a limitation period for judicial challenges to an authorization of a covered project to two years after the date of publication in the Federal Register of the final record of decision or approval or denial. Requires challenges relating to an environmental review under NEPA to be filed by a party that submitted a comment during the environmental review or a party that lacked a reasonable opportunity to submit a comment.
+
+Requires a court, in granting a temporary restraining order or preliminary injunction against a project sponsor or agency, to consider the effects on public health, safety, and the environment, the potential for significant job losses, and other economic harm and not to presume that the such harms are reparable.
+
+(Sec. 61008) Requires the Executive Director to submit annual reports to Congress, over a 10-year period, on the progress accomplished under this title and the performance of each participating agency.
+
+(Sec. 61009) Authorizes the heads of specified agencies to issue regulations establishing a fee structure for project proponents to reimburse the federal government for reasonable costs incurred in conducting environmental reviews and authorizations for covered projects. Requires such fee structure to: (1) be developed in consultation with affected project proponents, industries, and other stakeholders; (2) exclude parties for which the fee would impose an undue financial burden or is otherwise inappropriate; and (3) be established to ensure that the aggregate amount of fees for a fiscal year is estimated to not exceed 20% of the total estimated costs for the resources allocated for the conduct of the the environmental reviews and authorizations. Prohibits such regulations from affecting impartial decision-making with respect to environmental reviews and authorizations, either substantively or procedurally.
+
+Requires all fees to be deposited into a separate fund known as the Environmental Review Improvement Fund.
+
+(Sec. 61010) Makes this title applicable to any covered project for which: (1) a notice is filed by a project sponsor of the initiation of a covered project, or (2) an application or other request for an authorization is pending before an agency 90 days after the enactment of this Act.
+
+(Sec. 61011) Directs the Government Accountability Office to submit to Congress an analysis of whether the provisions of this title could be adopted to streamline the federal permitting process for smaller projects that are not covered projects.
+
+TITLE LXII--ADDITIONAL PROVISIONS
+
+Hire More Heroes Act of 2015
+
+(Sec. 62001) Amends the Internal Revenue Code to allow an employer, for purposes of determining whether such employer is an applicable large employer under the Patient Protection and Affordable Care Act and thus required to provide minimum essential health care coverage to its full-time employees, to exclude employees who have health care coverage under a program administered by the Department of Defense, including TRICARE, or by the Department of Veterans Affairs.
+
+DIVISION G--SURFACE TRANSPORTATION EXTENSION
+
+Surface Transportation Extension Act of 2015
+
+TITLE LXXI--EXTENSION OF FEDERAL-AID HIGHWAY PROGRAMS
+
+(Sec. 71001) Amends the Highway and Transportation Funding Act of 2014 to authorize appropriations for, and continue from July 31, 2015, through September 30, 2015, specified federal-aid highway programs under:
+
+ the Moving Ahead for Progress in the 21st Century Act (MAP-21), the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (SAFETEA-LU) Technical Corrections Act of 2008, SAFETEA-LU, the Transportation Equity Act for the 21st Century (TEA-21), the National Highway System Designation Act of 1995, the Intermodal Surface Transportation Efficiency Act of 1991 (ISTEA), and other specified law. Subjects funding for such programs generally to the same manner of distribution, administration, limitation, and availability for obligation, though at a specified pro rata of the total amount, as funds authorized for appropriation out of the Highway Trust Fund (HTF) for such programs and activities for FY2014.
+
+Amends MAP-21 to authorize appropriations out of the general fund of the Treasury for the Tribal High Priority Projects program for the same period.
+
+Prescribes an obligation ceiling of $40.256 billion for federal-aid highway and highway safety construction programs for the same period.
+
+(Sec. 71002) Authorizes appropriations from the HTF (other than the Mass Transit Account) for administrative expenses of the federal-aid highway program for the same period.
+
+TITLE LXXII--TEMPORARY EXTENSION OF PUBLIC TRANSPORTATION PROGRAMS
+
+(Sec. 72001) Extends for the same period the apportionment of nonurbanized (rural) area formula grants for public transportation on Indian reservations.
+
+(Sec. 72002) Extends the apportionment of urbanized area formula grants for passenger ferry projects for the same period.
+
+(Sec. 72003) Extends for the same period the authorization of appropriations from the HTF Mass Transit Account for:
+
+ formula grants for public transportation, including allocations for specified projects; research, development, demonstration, and deployment projects; the transit cooperative research program; technical assistance and standards development grants; human resources and training grants; capital investment grants; and administrative expenses. (Sec. 72004) Allocates, for the same period, a certain amount to states and territories for formula bus and bus facilities grants.
+
+TITLE LXXIII--EXTENSION OF HIGHWAY SAFETY PROGRAMS
+
+Subtitle A--Extension of Highway Safety Programs
+
+(Sec. 73101) Amends MAP-21 to extend for the same period the authorization of appropriations for National Highway Traffic Safety Administration (NHTSA) safety programs, including:
+
+ highway safety research and development, national priority safety programs, the National Driver Register, the High Visibility Enforcement Program, and NHTSA administrative expenses. Amends SAFETEA-LU to extend for the same period high-visibility traffic safety law enforcement campaigns under the High Visibility Enforcement Program.
+
+Sets aside a specified amount of the total apportionment to states for highway safety programs for a cooperative program to research and evaluate priority highway safety countermeasures for the same period.
+
+(Sec. 73102) Extends for the same period the authorization of appropriations for Federal Motor Carrier Safety Administration (FMCSA) programs, including:
+
+ motor carrier safety grants, FMCSA administrative expenses, commercial driver's license program improvement grants, border enforcement grants, performance and registration information system management grants, commercial vehicle information systems and networks deployment grants, safety data improvement grants, a set-aside for high priority activities that improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations, a set-aside for new entrant motor carrier audit grants, FMCSA outreach and education, and the commercial motor vehicle operators grant program. (Sec. 73103) Amends the Dingell-Johnson Sport Fish Restoration Act to continue, for the same period, the authorized distribution of funds for coastal wetlands, recreational boating safety, projects under the Clean Vessel Act of 19921, boating infrastructure projects, and the National Outreach and Communications Program.
+
+Subtitle B--Hazardous Materials
+
+(Sec. 73201) Authorizes appropriations for the same period for hazardous materials (hazmat) transportation safety projects.
+
+Authorizes DOT to make certain expenditures, including an amount for hazmat training grants, from the Hazardous Materials Emergency Preparedness Fund for the same period.
+
+TITLE LXXIV--REVENUE PROVISIONS
+
+(Sec. 74001) Amends the Internal Revenue Code to extend through the same period the authority for expenditures from:
+
+ the HTF Highway and Mass Transit Accounts, the Sport Fish Restoration and Boating Trust Fund, and the Leaking Underground Storage Tank Trust Fund. DIVISION H--BUDGETARY EFFECTS
+
+(Sec. 80001) Declares that the budgetary effects of this Act shall be determined by the latest statement titled "Budgetary Effects of PAYGO Legislation," provided the statement has been submitted before the vote on passage.
+
+(Sec. 80002) Prohibits DOT from approving any obligation of funds out of the Highway Account or the Mass Transit Account of the HTF for a fiscal year if the projected cash balances of either Accounts will fall below specified levels during that fiscal year.
+
+Prescribes a test for determining the cash balance in either account, and specifies exceptions to the prohibition.
+
+(Sec. 80003) Prohibits the rescission of contract authority provided under this Act for FY2019-FY2021 from being counted for purposes of enforcing a point of order established:
+
+ under the Congressional Budget Act of 1974, the determination levels under the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act), or the Statutory Pay-As-You-Go Act of 2010; or under, or determining levels under, a concurrent resolution on the budget. DIVISION I--EXPORT-IMPORT BANK OF THE UNITED STATES
+
+Export-Import Bank Reform and Reauthorization Act of 2015
+
+TITLE XCI--TAXPAYER PROTECTION PROVISIONS AND INCREASED ACCOUNTABILITY
+
+(Sec. 91001) Amends the Export-Import Bank Act of 1945 to set at $135 billion, for each of FY2015-FY2019, the authorized aggregate amount of loans, guarantees, and insurance the Export-Import Bank may have outstanding at any time.
+
+Prohibits the Bank, until the rate subsides to less than 2%, from exceeding the amount of loans, guarantees, and insurance outstanding on the last day of any quarter for which the rate at which borrowing entities are in default on a payment obligation (default rate) is 2% or more.
+
+(Sec. 91002) Directs the Bank to build to and hold in reserve, to protect against future losses, at least 5% of its aggregate amount of disbursed and outstanding loans, guarantees, and insurance.
+
+(Sec. 91003) Amends the Export-Import Bank Reauthorization Act of 2012 (EIBRA) to require the Government Accountability Office's quadrennial review of the adequacy of the design and effectiveness of the Bank's fraud controls to include review of the Bank's compliance with these controls.
+
+(Sec. 91004) Establishes an Office of Ethics within the Bank to recommend administrative actions to establish or enforce standards of official conduct.
+
+(Sec. 91005) Establishes a Chief Risk Officer of the Bank to oversee all issues relating to risk within the Bank.
+
+ (Sec. 91006) Establishes a Risk Management Committee to:
+
+ oversee periodic stress testing on the entire Bank portfolio and the monitoring of industry, geographic, and obligor exposure levels; and review all required reports on the Bank's default rate. (Sec. 91007) Directs the Bank's Inspector General to conduct an audit or evaluation of the Bank's portfolio risk management procedures, including its implementation of the duties assigned to the Chief Risk Officer.
+
+(Sec. 91008) Authorizes the Bank to establish a pilot program under which it may enter into contracts and other arrangements to share risks associated with its provision of guarantees, insurance, or credit, or participation in the extension of credit.
+
+ Prohibits the aggregate amount of liability the Bank may transfer through risk-sharing under a contract or other arrangement from exceeding $1 billion, or a total of $10 billion during a fiscal year.
+
+TITLE XCII--PROMOTION OF SMALL BUSINESS EXPORTS
+
+(Sec. 92001) Directs the Bank to:
+
+ increase from 20% to 25% of its lending authority the amount made available to finance direct exports by small business concerns, and include in its annual report to Congress a report on its programs for U.S. businesses with less than $250 million in annual sales. TITLE XCIII--MODERNIZATION OF OPERATIONS
+
+(Sec. 93001) Directs the Bank to implement policies to accept electronic payments and transaction documents.
+
+(Sec. 93002) Extends through FY2019 the Bank's authority to use a portion of its surplus to update its information technology systems.
+
+TITLE XCIV--GENERAL PROVISIONS
+
+(Sec. 94001) Reauthorizes through FY2019 the Bank, the Sub-Saharan Africa Advisory Committee, and authority for dual use exports (of nonlethal defense articles or services primarily for civilian use).
+
+(Sec. 94002) Limits to $25 million the principal amounts of medium-term financing by the Bank.
+
+Increases from a minimum of $10 million to a minimum of $25 million the amounts of:
+
+ long-term loans or loan guarantees the Bank shall seek to ensure that U.S. insurance companies have a fair and open competitive opportunity to insure in connection with any transaction for which the loan or guarantee is provided, working capital export loans and guarantees to small businesses, and long-term support for projects to which certain procedures apply regarding the potential beneficial and adverse environmental effects of goods and services for which direct lending and guarantee support is requested. Changes this minimum threshold, if the long-term support for projects subject to environmental effects consideration is less than $25 million, to the threshold established pursuant to international agreements, including the Common Approaches for Officially Supported Export Credits and Environmental and Social Due Diligence, as adopted by the Organisation for Economic Co-operation and Development Council on June 28, 2012, and the risk-management framework ("Equator Principles") adopted by financial institutions for determining, assessing, and managing environmental and social risk in projects.
+
+TITLE XCV--OTHER MATTERS
+
+(Sec. 95001) Prohibits the Bank from:
+
+ denying an application for financing based solely on the industry, sector, or business that the application concerns; or promulgating or implementing policies that discriminate against an application based solely on the industry, sector, or business that the application concerns. Applies these prohibitions only to applications for Bank financing for projects concerning the exploration, development, production, or export of energy sources and the generation or transmission of electrical power, or combined heat and power, regardless of the energy source involved.
+
+(Sec. 95002) Amends the EIBRA to require the President instead of the Department of the Treasury to initiate and pursue negotiations to end export credit financing.
+
+Requires the President to propose to Congress a strategy to pursue with other major exporting countries, including Organization for Economic Co-operation and Development (OECD) members and non-OECD members, to eliminate over a 10-year period subsidized export-financing programs, tied aid, export credits, and all other forms of government-supported export subsidies.
+
+(Sec. 95003) Directs the Bank to study the extent to which products it offers are available and used by companies that export information and communications technology services and related goods.
