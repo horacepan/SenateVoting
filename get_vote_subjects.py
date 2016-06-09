@@ -1,3 +1,4 @@
+import json
 import urllib.parse
 import pdb
 from bs4 import BeautifulSoup as bs4
@@ -44,6 +45,16 @@ def get_from(url):
     data = soup.find('dt', text='Subject Areas').findNextSibling('dd')
     area = data.findAll('a')[0].contents[0]
     return area
+
+def get_votes_summary(url):
+    bill_data = json.load(urllib.urlopen(url))    
+    bill_num = bill_data['bill']['number']
+    bill_type = bill_data['bill']['type']
+    
+    if 'amendment' in bill_data:
+        amend_num = bill_data['amendment']['number'] 
+        amend_type = bill_data['amendment']['type']
+
 
 if __name__ == '__main__':
     years = [2015, 2016]
