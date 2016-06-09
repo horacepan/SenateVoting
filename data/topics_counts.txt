@@ -1,0 +1,28 @@
+Economics and Public Finance               123
+Energy                                      66
+Nomination                                  42
+Armed Forces and National Security          37
+Health                                      29
+Education                                   29
+Crime and Law Enforcement                   25
+Transportation and Public Works             16
+Emergency Management                        11
+Taxation                                    10
+Government Operations and Politics           9
+International Affairs                        7
+Environmental Protection                     6
+Labor and Employment                         4
+Finance and Financial Sector                 3
+Immigration                                  3
+Foreign Trade and International Finance      3
+Agriculture and Food                         2
+Civil actions and liability                  1
+Law                                          1
+
+
+LDA topics:
+energy
+budget
+Regulation
+healthcare
+military

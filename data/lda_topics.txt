@@ -1,0 +1,34 @@
+Loading dataset...
+done in 1.300s.
+Extracting tf features for LDA...
+done in 1.175s.
+Fitting the NMF model with tf-idf features,n_samples=2000 and n_features=1000...
+done in 0.300s.
+
+Topics in NMF model:
+Topic #0: Energy
+energy doe water act efficiency buildings building requires heaters heater pipeline federal develop star demand commercial program sec local label
+Topic #1: Budget
+legislation deficit fy2016 neutral fy2025 reserve fy2020 periods increase sec establishes fund relating budget resolution spending new raising revenue states
+Topic #2: Military
+sec funds dod appropriations requires congress prohibits dot act program provided dhs permits specified defense used provides federal security title
+Topic #3: Education
+school districts requirements esea flexibility programs charter education provides grants evaluation accountability states student developing federal achieves weighed replication combines
+Topic #4: Health
+sec health 2017 medicaid tax eliminated longer substance payments fmap medical medicare ppaca insurance deduction individuals care eligibility income services
+
+Fitting LDA models with tf features, n_samples=2000 and n_features=1000...
+done in 1.477s.
+
+Topics in LDA model:
+Topic #0:
+energy water act doe federal sec requires efficiency program used programs building develop information fund agency buildings agencies use regarding
+Topic #1:
+legislation fy2016 deficit sec reserve increase fund establishes fy2025 neutral periods relating fy2020 budget states resolution spending federal new revenue
+Topic #2:
+sec funds program appropriations prohibits requires provided act federal specified provides used congress permits dot requirements national use transportation division
+Topic #3:
+sec health act tax medicare federal title fund medicaid fy2016 insurance social services security amends 2017 plan benefits spending income
+Topic #4:
+sec dod requires defense military congress security report national program act authorizes information subtitle force united title states acquisition trafficking
+
