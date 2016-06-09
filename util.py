@@ -3,13 +3,23 @@ import sys
 import json
 import urllib2
 
-def yield_all_summaries(years, bill_nums, congress):
+def save_all_summaries(years, bill_nums, congress):
     for i in range(len(years)):
         num_bills = bill_nums[i]
         year = years[i]
         for bill_num in range(1, num_bills+1):
-            yield get_summary(congress, year, bill_num)
+            fname = 'data/summaries/%d_%d.txt' %(year, bill_num)
+            f = open(fname, 'w')
+            s = get_summary(congress, year, bill_num)
+            s = s.encode('utf-8')
+            f.write(s)
+            f.close()
+            print("Done with summary for %d/%d" %(year, bill_num))
 
+def write_all_summaries(years, bill_nums, congress, fname='data/all_summaries.csv'):
+    f = open(fname, 'a')
+    for t in yield_all_summaries(years, bill_nums, congress):
+        f.write(t+'\n')
 
 def write_all_topics(years, bill_nums, congress, fname='data/all_topics.csv'):
     f = open(fname, 'a')
@@ -31,7 +41,7 @@ def yield_all_topics(years, bill_nums, congress):
 
 def get_topic(congress, year, vote_num):
     vote_json = get_vote_json(congress, year, vote_num)
-    if vote_json['category'] == 'nomination':
+    if vote_json['category'] == 'nomination' or (vote_json['category'] == 'cloture' and 'nomination' in vote_json):
         return 'Nomination'
     else:
         bill_type = vote_json['bill']['type']
@@ -41,7 +51,7 @@ def get_topic(congress, year, vote_num):
 
 def get_summary(congress, year, vote_num):
     vote_json = get_vote_json(congress, year, vote_num)
-    if vote_json['category'] == 'nomination':
+    if vote_json['category'] == 'nomination' or (vote_json['category'] == 'cloture' and 'nomination' in vote_json):
         return vote_json['question']
     #elif vote_json['category'] == 'amendment':
     #    amend_type = vote_json['amendment']['type']
@@ -76,4 +86,4 @@ def get_sum_bill(bill_json):
     pass
 
 if __name__ == '__main__':
-    write_all_topics([2015, 2016], [339,88], 114)
+    pass
