@@ -3,6 +3,43 @@ import pandas as pd
 import os
 import numpy as np
 
+def get_bills_by_topic():
+    bills = get_all_bills()
+    col_order = get_senators_sorted()
+    col_order.append('topic')
+    bills = bills[col_order]
+
+    topics = bills['topic'].unique()
+    bill_by_topic = {t: bills[bills['topic'] == t] for t in topics}
+    return bills_by_topic
+
+def get_bill_matrices_by_topic():
+    bills_by_topic = get_bills_by_topic()
+    for t in bills_by_topic.keys():
+        df = bills_by_topic[t]
+        df = df.drop('topic', axis=1)
+        bills_by_topic[t] = df.as_matrix()
+
+    return bills_by_topic
+
+def get_senator_id_maps():
+    df1 = pd.read_csv('data/2015/1.csv', skiprows=1)
+    df1.sort_index(by='person')
+    sen_id_map = {}
+    sen_sorted = get_senators_sorted()
+    num_to_sen = {ind:name for ind, name in enumerate(sen_sorted)}
+
+    for i in range(len(df1)):
+        sen_id = df1.loc[i, 'person']
+        sen_name = df1.loc[i, 'name'][5:-4] + ' [' + df1.loc[i, 'state'] + ']'
+        sen_id_map[sen_id] = sen_name
+    return sen_id_map, num_to_sen
+
+def get_senators_sorted():
+    df1 = pd.read_csv('data/2015/1.csv', skiprows=1)
+    df1.sort_index(by='person')
+    return list(df1['person'])
+
 def get_all_data():
     all_data = pd.read_csv('data/all_votes.csv')
     all_data = all_data.drop(all_data.columns[0], 1)
