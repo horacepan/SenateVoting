@@ -1,0 +1,449 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:ns0="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="Lamar Alexander [TN]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="1" label="Barbara Boxer [CA]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="2" label="Maria Cantwell [WA]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="3" label="Thomas Carper [DE]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="4" label="Thad Cochran [MS]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="5" label="Susan Collins [ME]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="6" label="John Cornyn [TX]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="7" label="Michael Crapo [ID]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="8" label="Richard Durbin [IL]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="9" label="Michael Enzi [WY]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="10" label="Dianne Feinstein [CA]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="11" label="Lindsey Graham [SC]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="12" label="Charles “Chuck” Grassley [IA]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="13" label="Orrin Hatch [UT]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="14" label="James “Jim” Inhofe [OK]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="15" label="Patrick Leahy [VT]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="16" label="John McCain [AZ]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="17" label="Mitch McConnell [KY]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="18" label="Barbara Mikulski [MD]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="19" label="Lisa Murkowski [AK]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="20" label="Patty Murray [WA]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="21" label="Bill Nelson [FL]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="22" label="John “Jack” Reed [RI]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="23" label="Harry Reid [NV]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="24" label="Pat Roberts [KS]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="25" label="Charles “Chuck” Schumer [NY]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="26" label="Jefferson “Jeff” Sessions [AL]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="27" label="Richard Shelby [AL]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="28" label="Debbie Stabenow [MI]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="29" label="Ron Wyden [OR]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="30" label="Tammy Baldwin [WI]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="31" label="Roy Blunt [MO]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="32" label="John Boozman [AR]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="33" label="Sherrod Brown [OH]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="34" label="Richard Burr [NC]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="35" label="Shelley Capito [WV]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="36" label="Benjamin Cardin [MD]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="37" label="Jeff Flake [AZ]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="38" label="John “Johnny” Isakson [GA]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="39" label="Mark Kirk [IL]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="40" label="Edward “Ed” Markey [MA]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="41" label="Robert “Bob” Menéndez [NJ]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="42" label="Jerry Moran [KS]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="43" label="Robert “Rob” Portman [OH]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="44" label="Bernard “Bernie” Sanders [VT]">
+        <ns0:color a="0" b="0" g="255" r="0" />
+      </node>
+      <node id="45" label="Patrick “Pat” Toomey [PA]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="46" label="Tom Udall [NM]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="47" label="David Vitter [LA]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="48" label="Roger Wicker [MS]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="49" label="John Thune [SD]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="50" label="Daniel Coats [IN]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="51" label="Christopher Murphy [CT]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="52" label="Mazie Hirono [HI]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="53" label="Joe Donnelly [IN]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="54" label="Dean Heller [NV]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="55" label="Kirsten Gillibrand [NY]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="56" label="Amy Klobuchar [MN]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="57" label="Claire McCaskill [MO]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="58" label="Jon Tester [MT]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="59" label="Robert “Bob” Casey Jr. [PA]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="60" label="Sheldon Whitehouse [RI]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="61" label="Bob Corker [TN]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="62" label="John Barrasso [WY]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="63" label="Bill Cassidy [LA]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="64" label="Martin Heinrich [NM]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="65" label="Gary Peters [MI]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="66" label="Mark Warner [VA]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="67" label="James Risch [ID]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="68" label="Jeanne Shaheen [NH]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="69" label="Jeff Merkley [OR]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="70" label="Michael Bennet [CO]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="71" label="Alan “Al” Franken [MN]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="72" label="Chris Coons [DE]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="73" label="Joe Manchin III [WV]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="74" label="Cory Gardner [CO]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="75" label="James Lankford [OK]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="76" label="Tim Scott [SC]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="77" label="Richard Blumenthal [CT]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="78" label="Marco Rubio [FL]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="79" label="Rand Paul [KY]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="80" label="Kelly Ayotte [NH]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="81" label="John Hoeven [ND]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="82" label="Mike Lee [UT]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="83" label="Ron Johnson [WI]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="84" label="Brian Schatz [HI]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="85" label="Tom Cotton [AR]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="86" label="Elizabeth Warren [MA]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="87" label="Angus King [ME]">
+        <ns0:color a="0" b="0" g="255" r="0" />
+      </node>
+      <node id="88" label="Steve Daines [MT]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="89" label="Heidi Heitkamp [ND]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="90" label="Deb Fischer [NE]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="91" label="Ted Cruz [TX]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="92" label="Timothy Kaine [VA]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="93" label="Cory Booker [NJ]">
+        <ns0:color a="0" b="255" g="0" r="0" />
+      </node>
+      <node id="94" label="Dan Sullivan [AK]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="95" label="David Perdue [GA]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="96" label="Joni Ernst [IA]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="97" label="Thom Tillis [NC]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="98" label="Mike Rounds [SD]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+      <node id="99" label="Benjamin Sasse [NE]">
+        <ns0:color a="0" b="0" g="0" r="255" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="4" weight="0.2390633822699042" />
+      <edge id="1" source="1" target="69" weight="0.2821462264150948" />
+      <edge id="2" source="2" target="20" weight="0.330641409407671" />
+      <edge id="3" source="2" target="21" weight="0.05724418683217433" />
+      <edge id="4" source="3" target="21" weight="0.24108358111568498" />
+      <edge id="5" source="4" target="13" weight="0.36191559350503827" />
+      <edge id="6" source="6" target="98" weight="0.16728184839065188" />
+      <edge id="7" source="6" target="62" weight="0.1820988335098099" />
+      <edge id="8" source="7" target="67" weight="0.44821286472148564" />
+      <edge id="9" source="8" target="25" weight="0.08677277215692582" />
+      <edge id="10" source="8" target="51" weight="0.07287130570223975" />
+      <edge id="11" source="8" target="28" weight="1.5779969923338891e-15" />
+      <edge id="12" source="8" target="77" weight="0.05273431826706597" />
+      <edge id="13" source="8" target="15" weight="0.1594961496437197" />
+      <edge id="14" source="9" target="88" weight="0.0756273321985629" />
+      <edge id="15" source="9" target="27" weight="0.02563699394652635" />
+      <edge id="16" source="9" target="94" weight="0.15180521135858682" />
+      <edge id="17" source="9" target="62" weight="0.009863181104506033" />
+      <edge id="18" source="10" target="18" weight="0.005155106095779736" />
+      <edge id="19" source="10" target="21" weight="0.20021862492859946" />
+      <edge id="20" source="11" target="48" weight="0.0168549072439265" />
+      <edge id="21" source="11" target="31" weight="0.12106044404506247" />
+      <edge id="22" source="12" target="96" weight="0.30194000541711596" />
+      <edge id="23" source="14" target="50" weight="0.06868062639799564" />
+      <edge id="24" source="14" target="85" weight="0.0011105776773867662" />
+      <edge id="25" source="14" target="88" weight="0.03150510010009438" />
+      <edge id="26" source="14" target="76" weight="0.1302597306057486" />
+      <edge id="27" source="14" target="62" weight="0.07912256424170534" />
+      <edge id="28" source="14" target="95" weight="0.0356050520137323" />
+      <edge id="29" source="15" target="65" weight="1.2051400509996182e-16" />
+      <edge id="30" source="15" target="30" weight="3.1333641325990073e-15" />
+      <edge id="31" source="15" target="22" weight="0.20673332007163184" />
+      <edge id="32" source="15" target="55" weight="1.8077100764994273e-15" />
+      <edge id="33" source="15" target="71" weight="1.928224081599389e-15" />
+      <edge id="34" source="15" target="93" weight="0.20617089900414676" />
+      <edge id="35" source="15" target="46" weight="4.459018188698587e-15" />
+      <edge id="36" source="16" target="49" weight="0.20857213438735167" />
+      <edge id="37" source="17" target="48" weight="0.3028660817031069" />
+      <edge id="38" source="19" target="35" weight="0.02129546992239304" />
+      <edge id="39" source="20" target="29" weight="0.024296235255950354" />
+      <edge id="40" source="21" target="29" weight="0.2743475078516187" />
+      <edge id="41" source="22" target="65" weight="1.6871960713994655e-15" />
+      <edge id="42" source="22" target="52" weight="1.6871960713994655e-15" />
+      <edge id="43" source="22" target="30" weight="0.42629964147820415" />
+      <edge id="44" source="22" target="55" weight="1.6871960713994655e-15" />
+      <edge id="45" source="22" target="60" weight="1.6871960713994655e-15" />
+      <edge id="46" source="22" target="46" weight="2.1692520917993128e-15" />
+      <edge id="47" source="23" target="25" weight="0.1479734356625234" />
+      <edge id="48" source="23" target="28" weight="8.9824444179006e-15" />
+      <edge id="49" source="23" target="33" weight="0.2269215291612291" />
+      <edge id="50" source="24" target="48" weight="0.1305557885586226" />
+      <edge id="51" source="24" target="49" weight="0.018678494819177556" />
+      <edge id="52" source="24" target="62" weight="0.19355392612967875" />
+      <edge id="53" source="25" target="28" weight="0.422156249999999" />
+      <edge id="54" source="26" target="82" weight="0.10377018634063696" />
+      <edge id="55" source="26" target="27" weight="0.244886498320317" />
+      <edge id="56" source="30" target="65" weight="1.6871960713994655e-15" />
+      <edge id="57" source="30" target="52" weight="2.2897660968992746e-15" />
+      <edge id="58" source="30" target="55" weight="2.2897660968992746e-15" />
+      <edge id="59" source="30" target="71" weight="1.6871960713994655e-15" />
+      <edge id="60" source="30" target="60" weight="2.2897660968992746e-15" />
+      <edge id="61" source="30" target="46" weight="5.543644234598244e-15" />
+      <edge id="62" source="31" target="32" weight="0.166781031084257" />
+      <edge id="63" source="31" target="34" weight="0.08130843234231419" />
+      <edge id="64" source="31" target="38" weight="0.024882881156293737" />
+      <edge id="65" source="32" target="76" weight="0.03962725961004965" />
+      <edge id="66" source="32" target="85" weight="0.16667744369548798" />
+      <edge id="67" source="32" target="94" weight="0.0558560947484974" />
+      <edge id="68" source="33" target="64" weight="0.06310398870433069" />
+      <edge id="69" source="33" target="65" weight="0.06138853225498001" />
+      <edge id="70" source="33" target="52" weight="2.4102801019992364e-15" />
+      <edge id="71" source="33" target="86" weight="0.16999849711707518" />
+      <edge id="72" source="33" target="55" weight="2.2897660968992746e-15" />
+      <edge id="73" source="33" target="84" weight="0.06334558765265806" />
+      <edge id="74" source="33" target="71" weight="2.771822117299122e-15" />
+      <edge id="75" source="33" target="93" weight="0.06392637627549293" />
+      <edge id="76" source="33" target="46" weight="2.2897660968992746e-15" />
+      <edge id="77" source="35" target="48" weight="0.11230463990293235" />
+      <edge id="78" source="36" target="93" weight="0.3854833149476007" />
+      <edge id="79" source="37" target="88" weight="0.15801737687653575" />
+      <edge id="80" source="37" target="75" weight="0.007638265739417065" />
+      <edge id="81" source="37" target="67" weight="5.795540881862887e-16" />
+      <edge id="82" source="37" target="90" weight="0.061237141158993806" />
+      <edge id="83" source="38" target="48" weight="0.23725498396592984" />
+      <edge id="84" source="38" target="81" weight="0.07052887051245262" />
+      <edge id="85" source="39" target="80" weight="0.02417871633253549" />
+      <edge id="86" source="39" target="97" weight="0.030706527649231048" />
+      <edge id="87" source="40" target="52" weight="2.2897660968992746e-15" />
+      <edge id="88" source="40" target="69" weight="0.008138900739435483" />
+      <edge id="89" source="40" target="46" weight="2.8923361223990837e-15" />
+      <edge id="90" source="41" target="86" weight="0.35505514705882213" />
+      <edge id="91" source="42" target="96" weight="0.07120838563273975" />
+      <edge id="92" source="42" target="67" weight="0.024469914616631897" />
+      <edge id="93" source="42" target="76" weight="0.10828299619282168" />
+      <edge id="94" source="44" target="69" weight="0.17756401617250706" />
+      <edge id="95" source="45" target="50" weight="0.034030378410091836" />
+      <edge id="96" source="45" target="67" weight="0.0013344047084078185" />
+      <edge id="97" source="45" target="85" weight="0.02886645511672529" />
+      <edge id="98" source="46" target="52" weight="2.2897660968992746e-15" />
+      <edge id="99" source="46" target="55" weight="2.2897660968992746e-15" />
+      <edge id="100" source="46" target="71" weight="1.6871960713994655e-15" />
+      <edge id="101" source="46" target="60" weight="2.2897660968992746e-15" />
+      <edge id="102" source="46" target="65" weight="1.6871960713994655e-15" />
+      <edge id="103" source="48" target="98" weight="0.19570111779109628" />
+      <edge id="104" source="49" target="96" weight="0.1877303241456059" />
+      <edge id="105" source="50" target="83" weight="0.02001907825158157" />
+      <edge id="106" source="52" target="55" weight="2.2897660968992746e-15" />
+      <edge id="107" source="52" target="71" weight="1.6871960713994655e-15" />
+      <edge id="108" source="52" target="60" weight="2.2897660968992746e-15" />
+      <edge id="109" source="52" target="65" weight="1.6871960713994655e-15" />
+      <edge id="110" source="53" target="77" weight="0.08818142641437904" />
+      <edge id="111" source="54" target="90" weight="0.12611094788399402" />
+      <edge id="112" source="55" target="65" weight="1.6871960713994655e-15" />
+      <edge id="113" source="55" target="71" weight="1.6871960713994655e-15" />
+      <edge id="114" source="55" target="60" weight="2.2897660968992746e-15" />
+      <edge id="115" source="58" target="77" weight="0.0668213410827391" />
+      <edge id="116" source="60" target="65" weight="1.6871960713994655e-15" />
+      <edge id="117" source="60" target="71" weight="1.6871960713994655e-15" />
+      <edge id="118" source="61" target="94" weight="0.01354859598234375" />
+      <edge id="119" source="61" target="95" weight="0.1301250743531401" />
+      <edge id="120" source="63" target="88" weight="0.02620326294629623" />
+      <edge id="121" source="63" target="94" weight="0.025263111653907426" />
+      <edge id="122" source="65" target="71" weight="1.6871960713994655e-15" />
+      <edge id="123" source="66" target="72" weight="0.1939294525732833" />
+      <edge id="124" source="66" target="92" weight="0.12597478233972026" />
+      <edge id="125" source="72" target="92" weight="0.013196476351341463" />
+      <edge id="126" source="74" target="94" weight="0.01379631117048645" />
+      <edge id="127" source="75" target="76" weight="0.07284211634504716" />
+      <edge id="128" source="75" target="95" weight="0.11278028687162132" />
+      <edge id="129" source="76" target="96" weight="0.08430575160443586" />
+      <edge id="130" source="76" target="99" weight="0.1015284201432224" />
+      <edge id="131" source="76" target="85" weight="0.15709330282680836" />
+      <edge id="132" source="82" target="99" weight="0.07173415847706252" />
+      <edge id="133" source="83" target="99" weight="0.06129273782997837" />
+      <edge id="134" source="83" target="95" weight="0.08272562020378454" />
+      <edge id="135" source="88" target="90" weight="0.1845964301191334" />
+      <edge id="136" source="90" target="96" weight="0.06293737185065036" />
+      <edge id="137" source="90" target="99" weight="0.13119830603105442" />
+      <edge id="138" source="91" target="99" weight="0.02110119047619002" />
+      <edge id="139" source="97" target="98" weight="0.2201450013286805" />
+    </edges>
+  </graph>
+</gexf>

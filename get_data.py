@@ -5,12 +5,14 @@ import numpy as np
 
 def get_bills_by_topic():
     bills = get_all_bills()
+    bills = bills.set_index('index')
     col_order = get_senators_sorted()
     col_order.append('topic')
+    col_order = list(map(lambda x: str(x), col_order))
     bills = bills[col_order]
 
     topics = bills['topic'].unique()
-    bill_by_topic = {t: bills[bills['topic'] == t] for t in topics}
+    bills_by_topic = {t: bills[bills['topic'] == t] for t in topics}
     return bills_by_topic
 
 def get_bill_matrices_by_topic():
@@ -25,15 +27,36 @@ def get_bill_matrices_by_topic():
 def get_senator_id_maps():
     df1 = pd.read_csv('data/2015/1.csv', skiprows=1)
     df1.sort_index(by='person')
-    sen_id_map = {}
+    i_name_map = {}
+    i_color_map = {}
+    i_id_map = {}
+    i_party_map = {}
     sen_sorted = get_senators_sorted()
-    num_to_sen = {ind:name for ind, name in enumerate(sen_sorted)}
+    i_id_map = {ind:name for ind, name in enumerate(sen_sorted)}
 
     for i in range(len(df1)):
-        sen_id = df1.loc[i, 'person']
         sen_name = df1.loc[i, 'name'][5:-4] + ' [' + df1.loc[i, 'state'] + ']'
-        sen_id_map[sen_id] = sen_name
-    return sen_id_map, num_to_sen
+        i_color_map[i] = get_party_color(df1.loc[i, 'party'])
+        i_name_map[i] = sen_name
+        i_party_map[i] = convert_party(df1.loc[i, 'party'])
+    return i_id_map, i_name_map, i_color_map, i_party_map
+
+def convert_party(val):
+    if val == 'Democrat':
+        return 'D'
+    elif val == 'Republican':
+        return 'R'
+    else:
+        return 'I'
+
+def get_party_color(val):
+    party_initial = convert_party(val)
+    if party_initial == 'R':
+        return {'color': {'r': 255, 'g': 0, 'b': 0, 'a': 0}}
+    elif party_initial == 'D':
+        return {'color': {'r': 0, 'g': 0, 'b': 255, 'a':0}}
+    else:
+        return {'color': {'r': 0, 'g': 255, 'b': 0, 'a': 0}}
 
 def get_senators_sorted():
     df1 = pd.read_csv('data/2015/1.csv', skiprows=1)
@@ -46,7 +69,7 @@ def get_all_data():
     return all_data
 
 def get_all_bills():
-    bill = pd.read_csv('data/all_bills.csv')
+    bills = pd.read_csv('data/all_bills.csv')
     return bills
 
 def get_topics():
