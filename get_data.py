@@ -1,3 +1,4 @@
+import pdb
 import pandas as pd
 import os
 import numpy as np
@@ -6,6 +7,55 @@ def get_all_data():
     all_data = pd.read_csv('data/all_votes.csv')
     all_data = all_data.drop(all_data.columns[0], 1)
     return all_data
+
+def get_all_bills():
+    bill = pd.read_csv('data/all_bills.csv')
+    return bills
+
+def get_topics():
+    topics = pd.read_csv('data/allt.csv')
+    index = gen_bill_name_index([2015, 2016], {2015:339, 2016:88})
+    topics.index = index
+    return topics
+
+def get_all_data_bills():
+    years = [2015, 2016]
+    num_bills = {2015: 339, 2016: 88}
+    df = pd.DataFrame()
+    df_senators = pd.read_csv('data/2015/1.csv', skiprows=1, index_col=0)
+    df['index'] = gen_bill_name_index(years, num_bills)
+    df = df.set_index('index', drop=True)
+
+    senator_ids = []
+    for i in df_senators.index:
+        df[i] = np.zeros(len(df))
+        senator_ids.append(i)
+
+    for y in years:
+        for bill_num in range(1, num_bills[y]+1):
+            curr_df = pd.read_csv(get_csv_name(y, bill_num), skiprows=1, index_col=0)
+            curr_index = '%d_%d' %(y, bill_num)
+            for senator in senator_ids:
+                vote = convert_vote(curr_df.loc[senator]['vote'])
+                df.ix[curr_index, senator] = vote
+    return df
+
+def convert_vote(val):
+    if val == 'Yea' or val == 'Yes':
+        return 1
+    else:
+        return -1
+
+def gen_bill_name_index(years, bill_nums):
+    index = []
+    for y in years:
+        for b in range(1, bill_nums[y]+1):
+            index.append('%d_%d' %(y, b))
+    return index 
+
+def get_csv_name(year, bill_num):
+    fname = 'data/%d/%d.csv' %(year, bill_num)
+    return fname
 
 def get_senators_matrix():
     data = get_all_data()
@@ -54,3 +104,6 @@ def convert_party(val):
 
 def get_bill_title(years):
     pass
+
+if __name__ == '__main__':
+    df = get_all_data_bills()
